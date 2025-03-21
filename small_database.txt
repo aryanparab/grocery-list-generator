@@ -1,127 +1,325 @@
 ```json
 {
   "Ralphs": [
-    {"ingredient": "Chicken Breast", "quantity": "1 lb", "price": 4.49},
-    {"ingredient": "Eggs", "quantity": "12 ct", "price": 5.99},
-    {"ingredient": "Tofu", "quantity": "14 oz", "price": 2.50},
-    {"ingredient": "Paneer", "quantity": "14 oz", "price": 6.99},
-    {"ingredient": "Salmon", "quantity": "1 lb", "price": 7.99},
-    {"ingredient": "Basmati Rice", "quantity": "2 lb", "price": 3.99},
-    {"ingredient": "Jasmine Rice", "quantity": "5 lb", "price": 6.99},
-    {"ingredient": "Brown Rice", "quantity": "32 oz", "price": 2.49},
-    {"ingredient": "Wild Rice", "quantity": "8 oz", "price": 4.99},
-    {"ingredient": "Tomatoes", "quantity": "1 ct", "price": 1.20},
-    {"ingredient": "Onions", "quantity": "1 ct", "price": 0.99},
-    {"ingredient": "Spinach", "quantity": "8 oz", "price": 2.50},
-    {"ingredient": "Bell Peppers", "quantity": "3 ct", "price": 3.99},
-    {"ingredient": "Carrots", "quantity": "1 lb", "price": 1.00},
-    {"ingredient": "Milk", "quantity": "1 gal", "price": 3.99},
-    {"ingredient": "Yogurt", "quantity": "32 oz", "price": 4.50},
-    {"ingredient": "Feta Cheese", "quantity": "5 oz", "price": 5.99},
-    {"ingredient": "Parmesan", "quantity": "8 oz", "price": 5.49},
-    {"ingredient": "Whole Wheat Flour", "quantity": "5 lb", "price": 4.99},
-    {"ingredient": "Tortillas", "quantity": "10 ct", "price": 2.99},
-    {"ingredient": "Pasta", "quantity": "16 oz", "price": 2.00},
-    {"ingredient": "Oats", "quantity": "64 oz", "price": 4.99},
-    {"ingredient": "Olive Oil", "quantity": "50 fl oz", "price": 12.99},
-    {"ingredient": "Sesame Oil", "quantity": "5 fl oz", "price": 5.49},
-    {"ingredient": "Butter", "quantity": "16 oz", "price": 4.99},
-    {"ingredient": "Ghee", "quantity": "7.5 oz", "price": 9.99},
-    {"ingredient": "Lentils", "quantity": "16 oz", "price": 2.99},
-    {"ingredient": "Black Beans", "quantity": "5 lbs", "price": 7.99},
-    {"ingredient": "Chickpeas", "quantity": "25 lb", "price": 35.00},
-    {"ingredient": "Kidney Beans", "quantity": "1 lb", "price": 1.99},
-    {"ingredient": "Lemons", "quantity": "1 lb", "price": 3.99},
-    {"ingredient": "Avocados", "quantity": "1 ct", "price": 1.25},
-    {"ingredient": "Bananas", "quantity": "1 ea", "price": 0.70},
-    {"ingredient": "Apples", "quantity": "1 lb", "price": 1.99},
-    {"ingredient": "Cumin", "quantity": "2 oz", "price": 3.49},
-    {"ingredient": "Coriander", "quantity": "0.45 oz", "price": 4.99},
-    {"ingredient": "Turmeric", "quantity": "1 ct", "price": 2.99},
-    {"ingredient": "Soy Sauce", "quantity": "10 fl oz", "price": 3.49},
-    {"ingredient": "Vinegar", "quantity": "1 gal", "price": 3.99}
-  ],
-  "Trader Joe's": [
-    {"ingredient": "Chicken Breast", "quantity": "1 lb", "price": "unavailable"},
-    {"ingredient": "Eggs", "quantity": "12 ct", "price": 3.49},
-    {"ingredient": "Tofu", "quantity": "16 oz", "price": 2.29},
-    {"ingredient": "Paneer", "quantity": "10 oz", "price": 4.99},
-    {"ingredient": "Salmon", "quantity": "1 lb", "price": 10.99},
-    {"ingredient": "Basmati Rice", "quantity": "32 oz", "price": 5.99},
-    {"ingredient": "Jasmine Rice", "quantity": "48 oz", "price": 13.49},
-    {"ingredient": "Brown Rice", "quantity": "3 lbs", "price": 13.99},
-    {"ingredient": "Wild Rice", "quantity": "1 lb", "price": 4.99},
-    {"ingredient": "Tomatoes", "quantity": "1 lb", "price": 2.99},
-    {"ingredient": "Onions", "quantity": "1 lb", "price": 0.79},
-    {"ingredient": "Spinach", "quantity": "5 oz", "price": 2.29},
-    {"ingredient": "Bell Peppers", "quantity": "1 lb", "price": 2.00},
-    {"ingredient": "Carrots", "quantity": "1 lb", "price": 1.00},
-    {"ingredient": "Milk", "quantity": "1 gal", "price": 4.99},
-    {"ingredient": "Yogurt", "quantity": "5.3 oz", "price": 1.29},
-    {"ingredient": "Feta Cheese", "quantity": "6 oz", "price": 4.99},
-    {"ingredient": "Parmesan", "quantity": "5 oz", "price": 5.99},
-    {"ingredient": "Whole Wheat Flour", "quantity": "5 lb", "price": "unavailable"},
-    {"ingredient": "Tortillas", "quantity": "10 ct", "price": 2.99},
-    {"ingredient": "Pasta", "quantity": "16 oz", "price": 1.29},
-    {"ingredient": "Oats", "quantity": "42 oz", "price": 2.99},
-    {"ingredient": "Olive Oil", "quantity": "1 liter", "price": 11.99},
-    {"ingredient": "Sesame Oil", "quantity": "8.4 fl oz", "price": 5.49},
-    {"ingredient": "Butter", "quantity": "16 oz", "price": 3.99},
-    {"ingredient": "Ghee", "quantity": "8 oz", "price": 12.67},
-    {"ingredient": "Lentils", "quantity": "17.6 oz", "price": 2.49},
-    {"ingredient": "Black Beans", "quantity": "15 oz", "price": 0.89},
-    {"ingredient": "Chickpeas", "quantity": "15 oz", "price": 0.99},
-    {"ingredient": "Kidney Beans", "quantity": "15 oz", "price": "unavailable"},
-    {"ingredient": "Lemons", "quantity": "1 lb", "price": 2.69},
-    {"ingredient": "Avocados", "quantity": "1 ea", "price": 1.29},
-    {"ingredient": "Bananas", "quantity": "1 ea", "price": 0.23},
-    {"ingredient": "Apples", "quantity": "1 lb", "price": 2.99},
-    {"ingredient": "Cumin", "quantity": "1.7 oz", "price": 3.99},
-    {"ingredient": "Coriander", "quantity": "7 oz", "price": 5.99},
-    {"ingredient": "Turmeric", "quantity": "2 oz", "price": 6.99},
-    {"ingredient": "Soy Sauce", "quantity": "17.6 fl oz", "price": 4.49},
-    {"ingredient": "Vinegar", "quantity": "16 fl oz", "price": 1.49}
+    {
+      "ingredient": "Chicken Breast",
+      "quantity": "1 lb",
+      "price": 4.49
+    },
+    {
+      "ingredient": "Eggs",
+      "quantity": "1 dozen",
+      "price": 2.99
+    },
+    {
+      "ingredient": "Brown Rice",
+      "quantity": "32 oz",
+      "price": 4.29
+    },
+    {
+      "ingredient": "Whole Wheat Pasta",
+      "quantity": "16 oz",
+      "price": 2.49
+    },
+    {
+      "ingredient": "Sweet Potatoes",
+      "quantity": "1 lb",
+      "price": 1.29
+    },
+    {
+      "ingredient": "Spinach",
+      "quantity": "8 oz",
+      "price": 2.99
+    },
+    {
+      "ingredient": "Kale",
+      "quantity": "16 oz",
+      "price": 2.49
+    },
+    {
+      "ingredient": "Bell Peppers",
+      "quantity": "3 ct",
+      "price": 3.99
+    },
+    {
+      "ingredient": "Carrots",
+      "quantity": "1 ct",
+      "price": 0.99
+    },
+    {
+      "ingredient": "Broccoli Bunch",
+      "quantity": "1 ct",
+      "price": 2.99
+    },
+    {
+      "ingredient": "Olive Oil",
+      "quantity": "50 fl oz",
+      "price": 12.99
+    },
+    {
+      "ingredient": "Garlic",
+      "quantity": "3 ct",
+      "price": 1.99
+    },
+    {
+      "ingredient": "Yellow Onions",
+      "quantity": "1 ct",
+      "price": 0.99
+    },
+    {
+      "ingredient": "Black Pepper",
+      "quantity": "4 oz",
+      "price": 4.29
+    },
+    {
+      "ingredient": "Paprika",
+      "quantity": "2 oz",
+      "price": 3.99
+    },
+    {
+      "ingredient": "Oregano",
+      "quantity": "0.75 oz",
+      "price": 4.99
+    },
+    {
+      "ingredient": "Basil",
+      "quantity": "4 oz",
+      "price": 3.49
+    },
+    {
+      "ingredient": "Greek Yogurt",
+      "quantity": "32 oz",
+      "price": 5.99
+    },
+    {
+      "ingredient": "Quinoa",
+      "quantity": "16 oz",
+      "price": 4.99
+    },
+    {
+      "ingredient": "Almonds",
+      "quantity": "16 oz",
+      "price": 7.99
+    },
+    {
+      "ingredient": "Avocado",
+      "quantity": "1 ct",
+      "price": 1.25
+    }
   ],
   "Target": [
-    {"ingredient": "Chicken Breast", "quantity": "1 lb", "price": 4.49},
-    {"ingredient": "Eggs", "quantity": "12 ct", "price": 7.99},
-    {"ingredient": "Tofu", "quantity": "14 oz", "price": "unavailable"},
-    {"ingredient": "Paneer", "quantity": "10 oz", "price": "unavailable"},
-    {"ingredient": "Salmon", "quantity": "1 lb", "price": 8.99},
-    {"ingredient": "Basmati Rice", "quantity": "32 oz", "price": 3.19},
-    {"ingredient": "Jasmine Rice", "quantity": "2 lb", "price": 2.99},
-    {"ingredient": "Brown Rice", "quantity": "32 oz", "price": 2.79},
-    {"ingredient": "Wild Rice", "quantity": "8.5 oz", "price": 2.49},
-    {"ingredient": "Tomatoes", "quantity": "1 lb", "price": 2.99},
-    {"ingredient": "Onions", "quantity": "1 ct", "price": 1.19},
-    {"ingredient": "Spinach", "quantity": "5 oz", "price": 2.79},
-    {"ingredient": "Bell Peppers", "quantity": "1 ct", "price": 0.79},
-    {"ingredient": "Carrots", "quantity": "1 lb", "price": 1.29},
-    {"ingredient": "Milk", "quantity": "1 gal", "price": 3.99},
-    {"ingredient": "Yogurt", "quantity": "32 oz", "price": 5.29},
-    {"ingredient": "Feta Cheese", "quantity": "12 oz", "price": 5.79},
-    {"ingredient": "Parmesan", "quantity": "6 oz", "price": 4.19},
-    {"ingredient": "Whole Wheat Flour", "quantity": "5 lb", "price": 4.19},
-    {"ingredient": "Tortillas", "quantity": "10 ct", "price": 2.99},
-    {"ingredient": "Pasta", "quantity": "16 oz", "price": 1.39},
-    {"ingredient": "Oats", "quantity": "42 oz", "price": 3.99},
-    {"ingredient": "Olive Oil", "quantity": "25.5 fl oz", "price": 7.69},
-    {"ingredient": "Sesame Oil", "quantity": "12 fl oz", "price": 5.49},
-    {"ingredient": "Butter", "quantity": "16 oz", "price": 4.49},
-    {"ingredient": "Ghee", "quantity": "12 oz", "price": 7.19},
-    {"ingredient": "Lentils", "quantity": "1 lb", "price": 2.19},
-    {"ingredient": "Black Beans", "quantity": "15.5 oz", "price": 1.29},
-    {"ingredient": "Chickpeas", "quantity": "15.5 oz", "price": 1.29},
-    {"ingredient": "Kidney Beans", "quantity": "1 lb", "price": 1.99},
-    {"ingredient": "Lemons", "quantity": "1 ea", "price": 0.79},
-    {"ingredient": "Avocados", "quantity": "1 ea", "price": 1.19},
-    {"ingredient": "Bananas", "quantity": "1 ea", "price": 0.27},
-    {"ingredient": "Apples", "quantity": "1 lb", "price": 1.99},
-    {"ingredient": "Cumin", "quantity": "2 oz", "price": 4.19},
-    {"ingredient": "Coriander", "quantity": "1.6 oz", "price": 3.99},
-    {"ingredient": "Turmeric", "quantity": "2.2 oz", "price": 4.19},
-    {"ingredient": "Soy Sauce", "quantity": "15 fl oz", "price": 2.99},
-    {"ingredient": "Vinegar", "quantity": "128 fl oz", "price": 3.19}
+    {
+      "ingredient": "Chicken Breast",
+      "quantity": "1 lb",
+      "price": 3.99
+    },
+    {
+      "ingredient": "Eggs",
+      "quantity": "30 ct",
+      "price": 5.49
+    },
+    {
+      "ingredient": "Brown Rice",
+      "quantity": "32oz",
+      "price": 3.49
+    },
+    {
+      "ingredient": "Whole Wheat Spaghetti",
+      "quantity": "16oz",
+      "price": 1.29
+    },
+    {
+      "ingredient": "Sweet Potatoes",
+      "quantity": "3lb Bag",
+      "price": 5.99
+    },
+    {
+      "ingredient": "Organic Baby Spinach",
+      "quantity": "5oz",
+      "price": 3.19
+    },
+    {
+      "ingredient": "Chopped Kale",
+      "quantity": "16oz",
+      "price": 3.19
+    },
+    {
+      "ingredient": "Red Bell Pepper",
+      "quantity": "Each",
+      "price": 1.29
+    },
+    {
+      "ingredient": "Carrots",
+      "quantity": "2lb",
+      "price": 1.69
+    },
+    {
+      "ingredient": "Fresh Broccoli",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Extra Virgin Olive Oil",
+      "quantity": "25.5 fl oz",
+      "price": 7.69
+    },
+    {
+      "ingredient": "Garlic",
+      "quantity": "3ct Bag",
+      "price": 2.79
+    },
+    {
+      "ingredient": "Yellow Onion",
+      "quantity": "Each",
+      "price": 0.99
+    },
+    {
+      "ingredient": "Ground Black Pepper",
+      "quantity": "3oz",
+      "price": 3.19
+    },
+    {
+      "ingredient": "Ground Paprika",
+      "quantity": "2.12oz",
+      "price": 3.19
+    },
+    {
+      "ingredient": "Oregano Leaves",
+      "quantity": "0.75oz",
+      "price": 3.19
+    },
+    {
+      "ingredient": "Organic Basil",
+      "quantity": "0.5oz",
+      "price": 3.99
+    },
+    {
+      "ingredient": "Greek Yogurt",
+      "quantity": "32oz",
+      "price": 5.49
+    },
+    {
+      "ingredient": "Organic Quinoa",
+      "quantity": "30oz",
+      "price": 4.99
+    },
+    {
+      "ingredient": "Raw Whole Almonds",
+      "quantity": "32oz",
+      "price": 12.29
+    },
+    {
+      "ingredient": "Avocado",
+      "quantity": "Each",
+      "price": 1.00
+    }
+  ],
+  "Trader Joe's": [
+    {
+      "ingredient": "Chicken Breast",
+      "quantity": "1 lb",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Eggs",
+      "quantity": "1 dozen",
+      "price": 3.49
+    },
+    {
+      "ingredient": "Brown Jasmine Rice",
+      "quantity": "3 lbs",
+      "price": 13.99
+    },
+    {
+      "ingredient": "Organic Whole Wheat Spaghetti",
+      "quantity": "16 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Murasaki Sweet Potatoes",
+      "quantity": "3 Lb",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Organic Baby Spinach",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Organic Shredded Kale",
+      "quantity": "10 Oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Bell Peppers",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Organic Carrots of Many Colors",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Broccoli Florets",
+      "quantity": "N/A",
+      "price": 2.29
+    },
+    {
+      "ingredient": "Extra Virgin Olive Oil",
+      "quantity": "Premium",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Gourmet Fresh PURPLE GARLIC",
+      "quantity": "4 bulbs",
+      "price": 1.99
+    },
+    {
+      "ingredient": "Yellow Onions",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Organic Ground Black Pepper",
+      "quantity": "2 Oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Smoked Paprika",
+      "quantity": "2.6 Ounce",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Organic Oregano",
+      "quantity": ".45 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Organic Basil",
+      "quantity": "Plant",
+      "price": 2.99
+    },
+    {
+      "ingredient": "Greek yogurt",
+      "quantity": "N/A",
+      "price": 0.99
+    },
+    {
+      "ingredient": "Organic Tricolor Quinoa",
+      "quantity": "16 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Raw Almonds",
+      "quantity": "N/A",
+      "price": 3.99
+    },
+    {
+      "ingredient": "Avocado",
+      "quantity": "Each",
+      "price": 1.49
+    }
   ]
 }
 ```

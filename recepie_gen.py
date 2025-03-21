@@ -42,7 +42,7 @@ except:
         reciepe = ""
 
 statement =f"""
-The recipes displayed are for a duration of {inputs[0]}. They include the following - {",".join(inputs[1])}.
+The recipes displayed are for a duration of {inputs[0]} weeks. They include the following - {",".join(inputs[1])}.
 You will be provided recipes for : {",".join(inputs[2])}. No: of servings per meal : {inputs[3]}.
 Your selected cuisine preferences are : {",".join(inputs[5])}
 """

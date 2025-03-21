@@ -2,9 +2,11 @@ from phi.agent import Agent
 from phi.model.groq import Groq
 from phi.model.google import Gemini
 from phi.tools.exa import ExaTools
-
+from ing import cuisine_ingredients
 
 md = Gemini(id="gemini-2.0-flash")
+string_items = [f"{key}: {value}" for key, value in cuisine_ingredients.items()]
+my_string = ", ".join(string_items)
 # md = Groq(id="deepseek-r1-distill-llama-70b")
 grocery_list_agent =Agent(
         description="You are a database creator. You need to create a database for ingredients used in different cuisines and maintain real time prices.",
@@ -23,14 +25,14 @@ grocery_list_agent =Agent(
     "You are allowed to add or remove ingredients from the given list if necessary for availability or cost-effectiveness.",  
     "Ensure the output remains concise and clear, with a maximum length of 6000 words.",  
     "Ensure the final output includes the store-specific prices and the total cost reflecting the required quantities.",  
-    "Ensure all prices are real time and accurately taken from exatools"
+    "Ensure all prices are real time and accurately taken from exatools",
 
         ]
         , 
         tools=[ExaTools(api_key= "de8ed4f8-7cd1-4be0-8e2b-7d9beeb7f21b")]
     )
 
-prompt = """
+prompt = f"""
 Retrieve real-time prices from Ralphs, Trader Joe's, and Target for grocery ingredients. 
 Include prices for as many ingredients as possible that are commonly used for cooking a variety of cuisines, 
 including to Indian, Chinese, American, Mexican, Mediterranean, Greek, Italian, Japanese, Thai, French, and Middle Eastern.
@@ -58,6 +60,7 @@ Spices and Condiments (e.g., cumin, coriander, turmeric, soy sauce, vinegar)
 Ensure the data is accurate and reflects the latest available prices.
 
 First find the nescessary ingredients required for each cuisine and then fetch their prices in real time from the web.
+some necessary ingredients based on cusines are: """ + my_string + """
 Return the final data as a well-structured JSON or string in the following format:
 
 {
@@ -77,7 +80,7 @@ Avoid duplicate or irrelevant data.
 If any ingredient is unavailable, provide a clear indication.
 The goal is to generate an optimized and accurate grocery price comparison for further analysis."""
 
-
+print(prompt)
 response = grocery_list_agent.run(prompt,stream=False)
 
 with open('small_database.txt','w') as file:
