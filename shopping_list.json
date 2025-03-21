@@ -1,0 +1,571 @@
+{
+    "Thu Mar 20 19:07:49 2025": [
+        {
+            "Trader Joe's": [
+                [
+                    "Paneer (Low-Fat) (1 lb)",
+                    6.99
+                ],
+                [
+                    "Spinach (1 lb)",
+                    2.99
+                ],
+                [
+                    "Cauliflower (1 Head)",
+                    2.99
+                ],
+                [
+                    "Tomatoes (2 lbs)",
+                    4.98
+                ],
+                [
+                    "Curry Leaves (1 Bunch)",
+                    3.49
+                ],
+                [
+                    "Bok Choy (0.5 lb)",
+                    3.49
+                ],
+                [
+                    "Broccoli (1 Head)",
+                    2.49
+                ],
+                [
+                    "Bell Peppers (1 lb)",
+                    2.99
+                ],
+                [
+                    "Green Beans (1 lb)",
+                    2.99
+                ],
+                [
+                    "Green Onions (1 Bunch)",
+                    1.49
+                ]
+            ],
+            "Target": [
+                [
+                    "Tofu (1 lb)",
+                    2.99
+                ],
+                [
+                    "Whole Wheat Noodles (1 lb)",
+                    3.49
+                ],
+                [
+                    "Coriander Powder (1 Bottle)",
+                    3.49
+                ],
+                [
+                    "Turmeric (1 Bottle)",
+                    3.99
+                ],
+                [
+                    "Soy Sauce (1 Bottle)",
+                    3.99
+                ],
+                [
+                    "Rice Vinegar (1 Bottle)",
+                    3.49
+                ],
+                [
+                    "Sesame Oil (1 Bottle)",
+                    8.99
+                ],
+                [
+                    "Chili Paste (1 Jar)",
+                    4.49
+                ],
+                [
+                    "Sesame Seeds (1 Bottle)",
+                    5.49
+                ]
+            ],
+            "Ralphs": [
+                [
+                    "Chicken Breast (3 lbs)",
+                    11.97
+                ],
+                [
+                    "Eggs (2 Dozen)",
+                    5.98
+                ],
+                [
+                    "Brown Rice (2 lbs)",
+                    2.98
+                ],
+                [
+                    "Toor Dal (1 lb)",
+                    2.49
+                ],
+                [
+                    "Masoor Dal (1 lb)",
+                    2.49
+                ],
+                [
+                    "Onions (2 lbs)",
+                    1.98
+                ],
+                [
+                    "Garlic (1 Head)",
+                    0.79
+                ],
+                [
+                    "Ginger (0.5 lb)",
+                    1.5
+                ],
+                [
+                    "Cumin (1 Bottle)",
+                    3.99
+                ],
+                [
+                    "Chili Powder (1 Bottle)",
+                    2.99
+                ],
+                [
+                    "Mustard Seeds (1 Bottle)",
+                    2.49
+                ],
+                [
+                    "Olive Oil (1 Bottle)",
+                    7.99
+                ],
+                [
+                    "Whole Wheat Flour (3 lbs)",
+                    4.47
+                ],
+                [
+                    "Carrots (1 lb)",
+                    0.99
+                ]
+            ]
+        },
+        [
+            4,
+            [
+                "Chicken",
+                "Eggs",
+                "Dairy products",
+                "Vegetables"
+            ],
+            [
+                "Lunch",
+                "Dinner"
+            ],
+            1,
+            "i have a packet of pasta",
+            [
+                "Indian",
+                "Chinese"
+            ],
+            "110",
+            ""
+        ],
+        ""
+    ],
+    "Thu Mar 20 19:31:56 2025": [
+        {
+            "Trader Joe's": [
+                [
+                    "Rice (Brown/Basmati) (10 lb)",
+                    12.99
+                ],
+                [
+                    "Lentils (Mix) (4 lb)",
+                    4.0
+                ],
+                [
+                    "Spinach (2 lb)",
+                    6.0
+                ],
+                [
+                    "Rice Vinegar (12 fl oz)",
+                    2.5
+                ],
+                [
+                    "Sesame Oil (6 fl oz)",
+                    6.5
+                ],
+                [
+                    "Low-fat Yogurt (32 oz)",
+                    3.75
+                ]
+            ],
+            "Target": [
+                [
+                    "Whole Wheat Flour (5 lb)",
+                    3.79
+                ],
+                [
+                    "Chicken Breast (8 lb)",
+                    20.0
+                ],
+                [
+                    "Eggs (3 Dozen)",
+                    7.5
+                ],
+                [
+                    "Paneer (Low-Fat) (2 lb)",
+                    10.0
+                ],
+                [
+                    "Tofu (2 lb)",
+                    4.0
+                ],
+                [
+                    "Fish (Salmon/Tilapia) (4 lb)",
+                    28.0
+                ],
+                [
+                    "Cauliflower (2 heads)",
+                    5.0
+                ],
+                [
+                    "Tomatoes (5 lb)",
+                    6.5
+                ],
+                [
+                    "Onions (5 lb)",
+                    4.0
+                ],
+                [
+                    "Garlic (2 bulbs)",
+                    2.5
+                ],
+                [
+                    "Ginger (1 lb)",
+                    3.5
+                ],
+                [
+                    "Green Chilies (0.5 lb)",
+                    1.75
+                ],
+                [
+                    "Bok Choy (1 lb)",
+                    2.5
+                ],
+                [
+                    "Broccoli (2 heads)",
+                    4.0
+                ],
+                [
+                    "Bell Peppers (2 lb)",
+                    5.0
+                ],
+                [
+                    "Carrots (2 lb)",
+                    2.5
+                ],
+                [
+                    "Green Beans (2 lb)",
+                    6.0
+                ],
+                [
+                    "Green Onions (1 bunch)",
+                    1.25
+                ],
+                [
+                    "Cumin Seeds (4 oz)",
+                    3.5
+                ],
+                [
+                    "Coriander Powder (4 oz)",
+                    3.0
+                ],
+                [
+                    "Turmeric Powder (4 oz)",
+                    4.0
+                ],
+                [
+                    "Garam Masala (4 oz)",
+                    4.5
+                ],
+                [
+                    "Chili Powder (4 oz)",
+                    2.5
+                ],
+                [
+                    "Mustard Seeds (4 oz)",
+                    2.0
+                ],
+                [
+                    "Olive Oil (Large bottle)",
+                    11.0
+                ],
+                [
+                    "Soy Sauce (Low-Sodium) (20 fl oz)",
+                    4.5
+                ],
+                [
+                    "Chili Paste (8 oz)",
+                    3.5
+                ],
+                [
+                    "Toasted Sesame Seeds (4 oz)",
+                    5.5
+                ]
+            ],
+            "Ralphs": [
+                [
+                    "Whole Wheat Noodles (1 lb)",
+                    2.5
+                ],
+                [
+                    "Curry Leaves (1 bunch)",
+                    2.0
+                ]
+            ]
+        },
+        [
+            4,
+            [
+                "Fish",
+                "Chicken",
+                "Vegetables"
+            ],
+            [
+                "Lunch",
+                "Dinner"
+            ],
+            1,
+            "",
+            [
+                "Indian",
+                "Chinese"
+            ],
+            "100",
+            ""
+        ],
+        ""
+    ],
+    "Thu Mar 20 20:33:18 2025": [
+        {
+            "Trader Joe's": [
+                [
+                    "Eggs (36 ct)",
+                    10.47
+                ],
+                [
+                    "Paneer (14 oz)",
+                    4.99
+                ],
+                [
+                    "Bell Peppers (6)",
+                    4.0
+                ],
+                [
+                    "Bananas (14)",
+                    3.22
+                ],
+                [
+                    "Olive Oil (50 fl oz)",
+                    11.99
+                ]
+            ],
+            "Target": [
+                [
+                    "Whole Wheat Flour (5 lb)",
+                    4.19
+                ],
+                [
+                    "Coriander Powder (1.35 oz)",
+                    11.97
+                ],
+                [
+                    "Soy Sauce (20 fl oz)",
+                    5.98
+                ],
+                [
+                    "Lemons (0.25 lb)",
+                    0.19
+                ],
+                [
+                    "Apples (1.5 lb)",
+                    2.99
+                ]
+            ],
+            "Ralphs": [
+                [
+                    "Chicken Breast (4.5 lb)",
+                    20.2
+                ],
+                [
+                    "Tofu (28 oz)",
+                    5.0
+                ],
+                [
+                    "Lentils (3 lb)",
+                    6.57
+                ],
+                [
+                    "Spinach (24 oz)",
+                    7.5
+                ],
+                [
+                    "Tomatoes (7 ct)",
+                    8.4
+                ],
+                [
+                    "Onions (7 ct)",
+                    5.53
+                ],
+                [
+                    "Carrots (2 lb)",
+                    2.0
+                ],
+                [
+                    "Brown Rice (64 oz)",
+                    4.98
+                ],
+                [
+                    "Cumin (6 oz)",
+                    10.47
+                ],
+                [
+                    "Turmeric (3 ct)",
+                    8.97
+                ],
+                [
+                    "Sesame Oil (10 fl oz)",
+                    10.98
+                ],
+                [
+                    "Avocados (7 ct)",
+                    8.33
+                ],
+                [
+                    "Yogurt (64 oz)",
+                    9.0
+                ]
+            ]
+        },
+        [
+            3,
+            [
+                "Vegetables",
+                "Chicken",
+                "Eggs"
+            ],
+            [
+                "Lunch",
+                "Dinner"
+            ],
+            1,
+            "",
+            [
+                "Indian",
+                "Chinese"
+            ],
+            "120",
+            ""
+        ],
+        ""
+    ],
+    "Thu Mar 20 20:34:42 2025": [
+        {
+            "Trader Joe's": [
+                [
+                    "Eggs (36 ct)",
+                    10.47
+                ],
+                [
+                    "Tofu (28 oz)",
+                    4.58
+                ],
+                [
+                    "Paneer (28 oz)",
+                    9.98
+                ],
+                [
+                    "Onions (7 ct)",
+                    5.53
+                ],
+                [
+                    "Yogurt (32 oz)",
+                    1.29
+                ],
+                [
+                    "Carrots (2 lb)",
+                    2.0
+                ]
+            ],
+            "Target": [
+                [
+                    "Lentils (Toor Dal) (32 oz)",
+                    4.38
+                ],
+                [
+                    "Lentils (Masoor Dal) (32 oz)",
+                    4.38
+                ],
+                [
+                    "Basmati Rice (4 lb)",
+                    6.38
+                ],
+                [
+                    "Whole Wheat Flour (5 lb)",
+                    4.19
+                ],
+                [
+                    "Olive Oil (50 fl oz)",
+                    7.69
+                ],
+                [
+                    "Bell Peppers (3 ct)",
+                    0.79
+                ],
+                [
+                    "Coriander Powder (0.45 oz)",
+                    3.99
+                ]
+            ],
+            "Ralphs": [
+                [
+                    "Chicken Breast (4 lb)",
+                    17.96
+                ],
+                [
+                    "Spinach (24 oz)",
+                    7.5
+                ],
+                [
+                    "Tomatoes (7 ct)",
+                    8.4
+                ],
+                [
+                    "Cumin (2 oz)",
+                    3.49
+                ],
+                [
+                    "Turmeric (1 ct)",
+                    2.99
+                ],
+                [
+                    "Carrots (2 lb)",
+                    2.0
+                ]
+            ]
+        },
+        [
+            3,
+            [
+                "Vegetables",
+                "Chicken",
+                "Eggs"
+            ],
+            [
+                "Lunch",
+                "Dinner"
+            ],
+            1,
+            "",
+            [
+                "Indian",
+                "Chinese"
+            ],
+            "120",
+            ""
+        ],
+        "curr"
+    ]
+}
