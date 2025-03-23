@@ -566,6 +566,679 @@
             "120",
             ""
         ],
+        ""
+    ],
+    "Thu Mar 20 21:11:06 2025": [
+        {
+            "Trader Joe's": [
+                [
+                    "Eggs (3 dozen)",
+                    10.47
+                ],
+                [
+                    "Garlic (12 ct)",
+                    5.97
+                ],
+                [
+                    "Brown Rice (64 oz)",
+                    19.45
+                ],
+                [
+                    "Greek Yogurt (64 oz)",
+                    7.92
+                ],
+                [
+                    "Almonds (32 oz)",
+                    7.98
+                ],
+                [
+                    "Basil (4 oz)",
+                    2.99
+                ],
+                [
+                    "Broccoli Bunch (4 ct)",
+                    9.16
+                ]
+            ],
+            "Target": [
+                [
+                    "Chicken Breast (7 lb)",
+                    27.93
+                ],
+                [
+                    "Spinach (32 oz)",
+                    20.42
+                ],
+                [
+                    "Carrots (4 lb)",
+                    3.38
+                ],
+                [
+                    "Olive Oil (50 fl oz)",
+                    15.38
+                ],
+                [
+                    "Black Pepper (4 oz)",
+                    4.25
+                ],
+                [
+                    "Paprika (2 oz)",
+                    3.19
+                ],
+                [
+                    "Oregano (0.75 oz)",
+                    3.19
+                ]
+            ],
+            "Ralphs": [
+                [
+                    "Bell Peppers (12 ct)",
+                    15.96
+                ],
+                [
+                    "Yellow Onions (4 ct)",
+                    3.96
+                ],
+                [
+                    "Sweet Potatoes (4 lb)",
+                    5.16
+                ],
+                [
+                    "Avocado (7 ct)",
+                    8.75
+                ]
+            ]
+        },
+        [
+            4,
+            [
+                "Chicken",
+                "Vegetables",
+                "Eggs",
+                "Dairy products"
+            ],
+            [
+                "Breakfast",
+                "Lunch",
+                "Dinner"
+            ],
+            1,
+            "",
+            [
+                "Indian",
+                "Chinese",
+                "Thai"
+            ],
+            "120",
+            ""
+        ],
+        ""
+    ],
+    "Thu Mar 20 21:11:46 2025": [
+        {
+            "Trader Joe's": [
+                [
+                    "Eggs (3 Dozen)",
+                    10.47
+                ],
+                [
+                    "Broccoli Bunch (2 ct)",
+                    4.58
+                ],
+                [
+                    "Basil (4 oz)",
+                    2.99
+                ],
+                [
+                    "Almonds (32 oz)",
+                    25.54
+                ]
+            ],
+            "Target": [
+                [
+                    "Chicken Breast (7 lbs)",
+                    27.93
+                ],
+                [
+                    "Brown Rice (64 oz)",
+                    6.98
+                ],
+                [
+                    "Whole Wheat Pasta (32 oz)",
+                    2.58
+                ],
+                [
+                    "Black Pepper (4 oz)",
+                    3.19
+                ],
+                [
+                    "Paprika (2 oz)",
+                    3.19
+                ],
+                [
+                    "Oregano (0.75 oz)",
+                    3.19
+                ],
+                [
+                    "Quinoa (32 oz)",
+                    4.99
+                ]
+            ],
+            "Ralphs": [
+                [
+                    "Spinach (24 oz)",
+                    8.97
+                ],
+                [
+                    "Kale (32 oz)",
+                    4.98
+                ],
+                [
+                    "Bell Peppers (6 ct)",
+                    7.98
+                ],
+                [
+                    "Carrots (2 ct)",
+                    1.98
+                ],
+                [
+                    "Garlic (6 ct)",
+                    3.98
+                ],
+                [
+                    "Yellow Onions (2 ct)",
+                    1.98
+                ],
+                [
+                    "Greek Yogurt (64 oz)",
+                    11.98
+                ],
+                [
+                    "Avocado (7 ct)",
+                    8.75
+                ],
+                [
+                    "Olive Oil (50 fl oz)",
+                    12.99
+                ]
+            ]
+        },
+        [
+            4,
+            [
+                "Chicken",
+                "Vegetables",
+                "Eggs",
+                "Dairy products"
+            ],
+            [
+                "Breakfast",
+                "Lunch",
+                "Dinner"
+            ],
+            1,
+            "",
+            [
+                "Indian",
+                "Chinese",
+                "Thai"
+            ],
+            "120",
+            ""
+        ],
+        ""
+    ],
+    "Thu Mar 20 21:17:35 2025": [
+        {
+            "Trader Joe's": [
+                [
+                    "Eggs (3 dozen)",
+                    10.47
+                ],
+                [
+                    "Broccoli (4 bunch)",
+                    9.16
+                ],
+                [
+                    "Low-fat Yogurt (32 oz)",
+                    0.99
+                ],
+                [
+                    "Basil (1 bunch)",
+                    2.99
+                ],
+                [
+                    "Brown Rice (64 oz)",
+                    27.98
+                ]
+            ],
+            "Target": [
+                [
+                    "Chicken Breast (8 lb)",
+                    31.92
+                ],
+                [
+                    "Spinach (32 oz)",
+                    20.42
+                ],
+                [
+                    "Bell Peppers (12 ct)",
+                    15.48
+                ],
+                [
+                    "Whole Wheat Noodles (1 lb)",
+                    1.29
+                ],
+                [
+                    "Black Pepper (4 oz)",
+                    3.19
+                ],
+                [
+                    "Paprika (2 oz)",
+                    3.19
+                ],
+                [
+                    "Oregano (0.75 oz)",
+                    3.19
+                ],
+                [
+                    "Carrots (2 lb)",
+                    1.69
+                ]
+            ],
+            "Ralphs": [
+                [
+                    "Onions (4 ct)",
+                    3.96
+                ],
+                [
+                    "Garlic (12 ct)",
+                    7.96
+                ],
+                [
+                    "Olive Oil (50 fl oz)",
+                    12.99
+                ]
+            ]
+        },
+        [
+            4,
+            [
+                "Chicken",
+                "Vegetables",
+                "Eggs",
+                "Dairy products"
+            ],
+            [
+                "Breakfast",
+                "Lunch",
+                "Dinner"
+            ],
+            1,
+            "",
+            [
+                "Indian",
+                "Chinese",
+                "Thai"
+            ],
+            "120",
+            ""
+        ],
+        ""
+    ],
+    "Thu Mar 20 21:18:11 2025": [
+        {
+            "Trader Joe's": [
+                [
+                    "Eggs (1.5 Dozen)",
+                    5.24
+                ],
+                [
+                    "Greek Yogurt (32 oz)",
+                    0.99
+                ],
+                [
+                    "Almonds (0.5 lb)",
+                    1.99
+                ],
+                [
+                    "Broccoli (0.5 head)",
+                    1.15
+                ],
+                [
+                    "Basil (0.5)",
+                    1.5
+                ]
+            ],
+            "Target": [
+                [
+                    "Chicken Breast (4 lb)",
+                    15.96
+                ],
+                [
+                    "Carrots (1 lb)",
+                    0.85
+                ],
+                [
+                    "Whole Wheat Noodles (0.5 lb)",
+                    0.65
+                ],
+                [
+                    "Black Pepper (2 oz)",
+                    1.6
+                ],
+                [
+                    "Avocado (2 ct)",
+                    2.0
+                ],
+                [
+                    "Oregano (0.375 oz)",
+                    1.6
+                ]
+            ],
+            "Ralphs": [
+                [
+                    "Spinach (12 oz)",
+                    4.49
+                ],
+                [
+                    "Onions (2)",
+                    1.98
+                ],
+                [
+                    "Garlic (1 head)",
+                    1.99
+                ],
+                [
+                    "Bell Peppers (Mix) (2)",
+                    2.66
+                ],
+                [
+                    "Brown Rice (2 lb)",
+                    4.29
+                ],
+                [
+                    "Sweet Potatoes (1 lb)",
+                    1.29
+                ],
+                [
+                    "Paprika (1 oz)",
+                    2.0
+                ],
+                [
+                    "Olive Oil (0.5 bottle)",
+                    6.5
+                ]
+            ]
+        },
+        [
+            4,
+            [
+                "Chicken",
+                "Vegetables",
+                "Eggs",
+                "Dairy products"
+            ],
+            [
+                "Breakfast",
+                "Lunch",
+                "Dinner"
+            ],
+            1,
+            "",
+            [
+                "Indian",
+                "Chinese",
+                "Thai"
+            ],
+            "120",
+            ""
+        ],
+        ""
+    ],
+    "Sat Mar 22 17:21:15 2025": [
+        {
+            "First week": {
+                "Trader Joe's": [
+                    [
+                        "Basmati Rice (2.5 lbs)",
+                        5.61,
+                        "Week 1"
+                    ],
+                    [
+                        "Eggs (18)",
+                        5.24,
+                        "Week 1"
+                    ],
+                    [
+                        "Olive Oil (25 fl oz)",
+                        5.5,
+                        "Week 1"
+                    ],
+                    [
+                        "Garlic (1 head)",
+                        1.99,
+                        "Week 1"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Chicken Breast (1 lb)",
+                        5.0,
+                        "Week 1"
+                    ],
+                    [
+                        "Garam Masala (0.5 container)",
+                        1.6,
+                        "Week 1"
+                    ]
+                ],
+                "Ralphs": [
+                    [
+                        "Toor Dal (1 lb)",
+                        3.75,
+                        "Week 1"
+                    ],
+                    [
+                        "Chickpeas (1 can)",
+                        1.25,
+                        "Week 1"
+                    ],
+                    [
+                        "Cumin Seeds (0.5 small bottle)",
+                        2.5,
+                        "Week 1"
+                    ],
+                    [
+                        "Turmeric Powder (0.5 small bottle)",
+                        5.0,
+                        "Week 1"
+                    ]
+                ]
+            },
+            "Second week": {
+                "Trader Joe's": [
+                    [
+                        "Whole Wheat Flour (2.5 lbs)",
+                        2.48,
+                        "Week 2"
+                    ],
+                    [
+                        "Eggs (18)",
+                        5.24,
+                        "Week 2"
+                    ],
+                    [
+                        "Olive Oil (25 fl oz)",
+                        5.5,
+                        "Week 2"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Chicken Breast (1 lb)",
+                        5.0,
+                        "Week 2"
+                    ],
+                    [
+                        "Garam Masala (0.5 container)",
+                        1.6,
+                        "Week 2"
+                    ]
+                ],
+                "Ralphs": [
+                    [
+                        "Toor Dal (1 lb)",
+                        3.75,
+                        "Week 2"
+                    ],
+                    [
+                        "Chickpeas (1 can)",
+                        1.25,
+                        "Week 2"
+                    ],
+                    [
+                        "Cumin Seeds (0.5 small bottle)",
+                        2.5,
+                        "Week 2"
+                    ],
+                    [
+                        "Turmeric Powder (0.5 small bottle)",
+                        5.0,
+                        "Week 2"
+                    ]
+                ]
+            },
+            "Third week": {
+                "Trader Joe's": [
+                    [
+                        "Basmati Rice (2.5 lbs)",
+                        5.61,
+                        "Week 3"
+                    ],
+                    [
+                        "Eggs (18)",
+                        5.24,
+                        "Week 3"
+                    ],
+                    [
+                        "Olive Oil (25 fl oz)",
+                        5.5,
+                        "Week 3"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Chicken Breast (1 lb)",
+                        5.0,
+                        "Week 3"
+                    ],
+                    [
+                        "Garam Masala (0.5 container)",
+                        1.6,
+                        "Week 3"
+                    ]
+                ],
+                "Ralphs": [
+                    [
+                        "Toor Dal (1 lb)",
+                        3.75,
+                        "Week 3"
+                    ],
+                    [
+                        "Chickpeas (1 can)",
+                        1.25,
+                        "Week 3"
+                    ],
+                    [
+                        "Cumin Seeds (0.5 small bottle)",
+                        2.5,
+                        "Week 3"
+                    ],
+                    [
+                        "Turmeric Powder (0.5 small bottle)",
+                        5.0,
+                        "Week 3"
+                    ]
+                ]
+            },
+            "Fourth week": {
+                "Trader Joe's": [
+                    [
+                        "Whole Wheat Flour (2.5 lbs)",
+                        2.48,
+                        "Week 4"
+                    ],
+                    [
+                        "Eggs (18)",
+                        5.24,
+                        "Week 4"
+                    ],
+                    [
+                        "Olive Oil (25 fl oz)",
+                        5.5,
+                        "Week 4"
+                    ]
+                ],
+                "Target": [
+                    [
+                        "Chicken Breast (1 lb)",
+                        5.0,
+                        "Week 4"
+                    ],
+                    [
+                        "Garam Masala (0.5 container)",
+                        1.6,
+                        "Week 4"
+                    ]
+                ],
+                "Ralphs": [
+                    [
+                        "Toor Dal (1 lb)",
+                        3.75,
+                        "Week 4"
+                    ],
+                    [
+                        "Chickpeas (1 can)",
+                        1.25,
+                        "Week 4"
+                    ],
+                    [
+                        "Cumin Seeds (0.5 small bottle)",
+                        2.5,
+                        "Week 4"
+                    ],
+                    [
+                        "Turmeric Powder (0.5 small bottle)",
+                        5.0,
+                        "Week 4"
+                    ]
+                ]
+            }
+        },
+        [
+            4,
+            [
+                "Chicken",
+                "Eggs",
+                "Vegetables",
+                "Plant-based",
+                "Dairy products"
+            ],
+            [
+                "Lunch",
+                "Breakfast",
+                "Dinner"
+            ],
+            1,
+            "",
+            [
+                "Indian",
+                "Thai"
+            ],
+            "100",
+            ""
+        ],
         "curr"
     ]
 }

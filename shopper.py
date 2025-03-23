@@ -19,6 +19,7 @@ def getter(prompt):
         "You will create a grocery list from specified ingredients and their quantities and a prompt as an input.",  
     "Retrieve ingredient information and prices from Ralphs, Target, and Trader Joe’s.",  
     "Provide prices for each ingredient from all three stores.",  
+    "Ensure that you use all the budget, it's okay to go $15 above the budget."
     """Present the results in a clear, tabulated format with columns for:  
         - Ingredient,  
         - Quantity,  
@@ -32,11 +33,11 @@ def getter(prompt):
     "Ensure the final output includes the store-specific prices and the total cost reflecting the required quantities.",  
     "The output should be in a clean list format for easy reference.",  
     "Use the following information for price reference ( this is real time data)",
-    small_db,"If you can't find the required prices here, use the exa toll provided."
+    small_db, 
+    " If you can't find the required prices here, use an approximate price based on your knowledge"
 
         ]
-        , 
-        tools=[ExaTools(api_key= "de8ed4f8-7cd1-4be0-8e2b-7d9beeb7f21b")]
+        
     )
 
     # prompt= f"""
@@ -81,37 +82,40 @@ def getter(prompt):
         "You will receive a grocery list with specified ingredients and their quantities as input.",  
 "Generate a grocery list for each store (Trader Joe's, Target, and Ralphs).",  
 "Organize the output into a dictionary format with the store names as keys and the items as lists of tuples.",  
+"If duration is more than 2 weeks, divide the grocery list such that the ingredients are bought on a 2 week basis to ensure freshness else do not divide. The output in case of less than 2 weeks should have First week mentioned in the final dict. It is okay if the weekly total is not same as long as the final total for all weeks is close to the budget",
 "Each tuple should contain the item name (as a string) and the price (as a float, reflecting the cost per specified quantity).",  
 "Present the output in the following format always!:",  
-"grocery_data = {",  
+"grocery_data = {",
+    "First week:",
 "    'Trader Joe\'s': [",  
-"        ('Chicken Breast (3 lbs)', 21.00),",  
-"        ('Eggs (24)', 5.00),",  
-"        ('Lentils (Toor/Masoor) (2 lbs)', 6.00),",  
+"        ('Chicken Breast (3 lbs)', 21.00,False) , ",  
+"        ('Eggs (24)', 5.00,False),",  
+"        ('Lentils (Toor/Masoor) (2 lbs)', 6.00,False),",  
 "        # More items",  
 "    ],",  
 "    'Target': [",  
-"        ('Paneer (Low-Fat) (1 lb)', 7.00),",  
-"        ('Bell Peppers (3)', 4.50),",  
+"        ('Paneer (Low-Fat) (1 lb)', 7.00,False),",  
+"        ('Bell Peppers (3)', 4.50,False),",  
 "        # More items",  
 "    ],",  
 "    'Ralphs': [",  
-"        ('Avocado (2)', 4.00),",  
+"        ('Avocado (2)', 4.00,False),",  
 "        # More items",  
 "    ]",  
 "}",  
+"The False in the dict is a boolean value for implementing checklist",
 "For each ingredient, find the best price from the available stores and choose it.",  
 "Distribute items across the stores, ensuring that not all items are bought from a single store.",  
-"Ensure the list is balanced and doesn’t exceed the expected budget for each store. Make this top priority It is okay to be + or - $15 of the total value",  
+"Ensure the list is balanced and doesn’t exceed the expected budget for each store. Make this top priority It is okay to be + $15 of the total budget",  
 "Maintain the specified quantities and ingredients consistently across all stores.",  
-"Output the list in the exact format shown above with each item and its cost correctly aligned."
+"Output the list in the exact format shown above with each item and its cost correctly aligned.",
 
 
         ]
     )
 
     
-
+    
     with st.status("Generating List...", expanded=True) as status:
         response = grocery_list_agent.run(prompt, stream=False)
         st.write("Estimating cost....")

@@ -2,252 +2,1152 @@
 {
   "Ralphs": [
     {
-      "ingredient": "Chicken Breast",
-      "quantity": "1 lb",
-      "price": 4.49
-    },
-    {
-      "ingredient": "Eggs",
-      "quantity": "1 dozen",
-      "price": 2.99
-    },
-    {
-      "ingredient": "Brown Rice",
-      "quantity": "32 oz",
-      "price": 4.29
-    },
-    {
-      "ingredient": "Whole Wheat Pasta",
-      "quantity": "16 oz",
-      "price": 2.49
-    },
-    {
-      "ingredient": "Sweet Potatoes",
-      "quantity": "1 lb",
-      "price": 1.29
-    },
-    {
-      "ingredient": "Spinach",
-      "quantity": "8 oz",
-      "price": 2.99
-    },
-    {
-      "ingredient": "Kale",
-      "quantity": "16 oz",
-      "price": 2.49
-    },
-    {
-      "ingredient": "Bell Peppers",
-      "quantity": "3 ct",
-      "price": 3.99
-    },
-    {
-      "ingredient": "Carrots",
-      "quantity": "1 ct",
-      "price": 0.99
-    },
-    {
-      "ingredient": "Broccoli Bunch",
-      "quantity": "1 ct",
-      "price": 2.99
-    },
-    {
-      "ingredient": "Olive Oil",
-      "quantity": "50 fl oz",
-      "price": 12.99
-    },
-    {
-      "ingredient": "Garlic",
-      "quantity": "3 ct",
-      "price": 1.99
-    },
-    {
-      "ingredient": "Yellow Onions",
-      "quantity": "1 ct",
-      "price": 0.99
-    },
-    {
-      "ingredient": "Black Pepper",
-      "quantity": "4 oz",
-      "price": 4.29
-    },
-    {
-      "ingredient": "Paprika",
-      "quantity": "2 oz",
-      "price": 3.99
-    },
-    {
-      "ingredient": "Oregano",
-      "quantity": "0.75 oz",
-      "price": 4.99
-    },
-    {
-      "ingredient": "Basil",
-      "quantity": "4 oz",
-      "price": 3.49
-    },
-    {
-      "ingredient": "Greek Yogurt",
-      "quantity": "32 oz",
-      "price": 5.99
-    },
-    {
-      "ingredient": "Quinoa",
-      "quantity": "16 oz",
-      "price": 4.99
-    },
-    {
-      "ingredient": "Almonds",
-      "quantity": "16 oz",
+      "ingredient": "Basmati Rice",
+      "quantity": "2 lb",
       "price": 7.99
     },
     {
-      "ingredient": "Avocado",
-      "quantity": "1 ct",
-      "price": 1.25
-    }
-  ],
-  "Target": [
-    {
-      "ingredient": "Chicken Breast",
-      "quantity": "1 lb",
-      "price": 3.99
-    },
-    {
-      "ingredient": "Eggs",
-      "quantity": "30 ct",
+      "ingredient": "Whole Wheat Flour",
+      "quantity": "5 lb",
       "price": 5.49
     },
     {
-      "ingredient": "Brown Rice",
-      "quantity": "32oz",
-      "price": 3.49
+      "ingredient": "Toor Dal",
+      "quantity": "2 lb",
+      "price": 7.49
     },
     {
-      "ingredient": "Whole Wheat Spaghetti",
-      "quantity": "16oz",
-      "price": 1.29
+      "ingredient": "Masoor Dal",
+      "quantity": "16 oz",
+      "price": 4.29
     },
     {
-      "ingredient": "Sweet Potatoes",
-      "quantity": "3lb Bag",
+      "ingredient": "Moong Dal",
+      "quantity": "2 lb",
+      "price": 6.99
+    },
+    {
+      "ingredient": "Chickpeas",
+      "quantity": "15 oz",
+      "price": 1.25
+    },
+    {
+      "ingredient": "Paneer",
+      "quantity": "14 oz",
       "price": 5.99
     },
     {
-      "ingredient": "Organic Baby Spinach",
-      "quantity": "5oz",
-      "price": 3.19
+      "ingredient": "Ghee",
+      "quantity": "7.5 oz",
+      "price": 12.99
     },
     {
-      "ingredient": "Chopped Kale",
-      "quantity": "16oz",
-      "price": 3.19
+      "ingredient": "Mustard Seeds",
+      "quantity": "7 oz",
+      "price": 2.99
     },
     {
-      "ingredient": "Red Bell Pepper",
-      "quantity": "Each",
-      "price": 1.29
-    },
-    {
-      "ingredient": "Carrots",
-      "quantity": "2lb",
-      "price": 1.69
-    },
-    {
-      "ingredient": "Fresh Broccoli",
-      "quantity": "N/A",
-      "price": "N/A"
-    },
-    {
-      "ingredient": "Extra Virgin Olive Oil",
-      "quantity": "25.5 fl oz",
-      "price": 7.69
-    },
-    {
-      "ingredient": "Garlic",
-      "quantity": "3ct Bag",
-      "price": 2.79
-    },
-    {
-      "ingredient": "Yellow Onion",
-      "quantity": "Each",
-      "price": 0.99
-    },
-    {
-      "ingredient": "Ground Black Pepper",
-      "quantity": "3oz",
-      "price": 3.19
-    },
-    {
-      "ingredient": "Ground Paprika",
-      "quantity": "2.12oz",
-      "price": 3.19
-    },
-    {
-      "ingredient": "Oregano Leaves",
-      "quantity": "0.75oz",
-      "price": 3.19
-    },
-    {
-      "ingredient": "Organic Basil",
-      "quantity": "0.5oz",
-      "price": 3.99
-    },
-    {
-      "ingredient": "Greek Yogurt",
-      "quantity": "32oz",
-      "price": 5.49
-    },
-    {
-      "ingredient": "Organic Quinoa",
-      "quantity": "30oz",
+      "ingredient": "Cumin Seeds",
+      "quantity": "0.95 oz",
       "price": 4.99
     },
     {
-      "ingredient": "Raw Whole Almonds",
-      "quantity": "32oz",
-      "price": 12.29
+      "ingredient": "Coriander Powder",
+      "quantity": "7 oz",
+      "price": 2.99
     },
     {
-      "ingredient": "Avocado",
-      "quantity": "Each",
-      "price": 1.00
+      "ingredient": "Turmeric Powder",
+      "quantity": "8 oz",
+      "price": 9.99
+    },
+    {
+      "ingredient": "Garam Masala",
+      "quantity": "1 ct",
+      "price": 4.49
+    },
+    {
+      "ingredient": "Red Chili Powder",
+      "quantity": "7 oz",
+      "price": 2.99
+    },
+    {
+      "ingredient": "Asafoetida",
+      "quantity": "1.75 oz",
+      "price": 5.49
+    },
+    {
+      "ingredient": "Curry Leaves",
+      "quantity": "1.3 oz",
+      "price": 7.49
+    },
+    {
+      "ingredient": "Tamarind Paste",
+      "quantity": "7 oz",
+      "price": 3.99
+    },
+    {
+      "ingredient": "Coconut Milk",
+      "quantity": "8.5 fl oz",
+      "price": 2.29
+    },
+    {
+      "ingredient": "Green Chilies",
+      "quantity": "4 oz",
+      "price": 2.99
+    },
+    {
+      "ingredient": "Ginger",
+      "quantity": "1 ct",
+      "price": 1.50
     }
   ],
   "Trader Joe's": [
     {
+      "ingredient": "Basmati Rice",
+      "quantity": "2 lb",
+      "price": 4.49
+    },
+    {
+      "ingredient": "Whole Wheat Flour",
+      "quantity": "5 lb",
+      "price": 4.95
+    },
+    {
+      "ingredient": "Toor Dal",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Masoor Dal",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Moong Dal",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Chickpeas",
+      "quantity": "15 oz",
+      "price": 2.00
+    },
+    {
+      "ingredient": "Paneer",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Ghee",
+      "quantity": "8 oz",
+      "price": 11.75
+    },
+    {
+      "ingredient": "Mustard Seeds",
+      "quantity": "9 oz",
+      "price": 4.50
+    },
+    {
+      "ingredient": "Cumin Seeds",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Coriander Powder",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Turmeric Powder",
+      "quantity": "2 oz",
+      "price": 6.99
+    },
+    {
+      "ingredient": "Garam Masala",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Red Chili Powder",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Asafoetida",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Curry Leaves",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Tamarind Paste",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Coconut Milk",
+      "quantity": "13.5 fl oz",
+      "price": 12.99
+    },
+    {
+      "ingredient": "Green Chilies",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Ginger",
+      "quantity": "N/A",
+      "price": "N/A"
+    }
+  ],
+  "Target": [
+    {
+      "ingredient": "Basmati Rice",
+      "quantity": "32 oz",
+      "price": 3.99
+    },
+    {
+      "ingredient": "Whole Wheat Flour",
+      "quantity": "5 lb",
+      "price": 3.49
+    },
+    {
+      "ingredient": "Toor Dal",
+      "quantity": "4 lb",
+      "price": 24.99
+    },
+    {
+      "ingredient": "Masoor Dal",
+      "quantity": "2 lb",
+      "price": 8.99
+    },
+    {
+      "ingredient": "Moong Dal",
+      "quantity": "2 lb",
+      "price": 8.99
+    },
+    {
+      "ingredient": "Chickpeas",
+      "quantity": "1 lb",
+      "price": 2.79
+    },
+    {
+      "ingredient": "Paneer",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Ghee",
+      "quantity": "12 oz",
+      "price": 11.19
+    },
+    {
+      "ingredient": "Mustard Seeds",
+      "quantity": "1 lb",
+      "price": 8.99
+    },
+    {
+      "ingredient": "Cumin Seeds",
+      "quantity": "16 oz",
+      "price": 8.99
+    },
+    {
+      "ingredient": "Coriander Powder",
+      "quantity": "7 oz",
+      "price": 5.99
+    },
+    {
+      "ingredient": "Turmeric Powder",
+      "quantity": "7 oz",
+      "price": 8.29
+    },
+    {
+      "ingredient": "Garam Masala",
+      "quantity": "1.9 oz",
+      "price": 3.19
+    },
+    {
+      "ingredient": "Red Chili Powder",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Asafoetida",
+      "quantity": "3.5 oz",
+      "price": 15.99
+    },
+    {
+      "ingredient": "Curry Leaves",
+      "quantity": "0.5 oz",
+      "price": 6.99
+    },
+    {
+      "ingredient": "Tamarind Paste",
+      "quantity": "12 oz",
+      "price": 7.19
+    },
+    {
+      "ingredient": "Coconut Milk",
+      "quantity": "13.5 oz",
+      "price": 2.10
+    },
+    {
+      "ingredient": "Green Chilies",
+      "quantity": "4 oz",
+      "price": 2.49
+    },
+    {
+      "ingredient": "Ginger",
+      "quantity": "N/A",
+      "price": "N/A"
+    }
+  ]
+}
+``````json
+{
+  "Ralphs": [
+    {"ingredient": "Garlic", "quantity": "1 ct", "price": "Unavailable"},
+    {"ingredient": "Onions", "quantity": "1 ct", "price": "Unavailable"},
+    {"ingredient": "Tomatoes", "quantity": "1 bunch", "price": "Unavailable"},
+    {"ingredient": "Spinach", "quantity": "1 ct", "price": "Unavailable"},
+    {"ingredient": "Potatoes", "quantity": "5 lb", "price": "Unavailable"},
+    {"ingredient": "Eggplant", "quantity": "1 each", "price": "Unavailable"},
+    {"ingredient": "Cauliflower", "quantity": "1 ct", "price": "$1.69/lb"},
+    {"ingredient": "Fresh Coriander", "quantity": "Ground", "price": "Unavailable"},
+    {"ingredient": "Yogurt", "quantity": "Various", "price": "Unavailable"},
+    {"ingredient": "Bay Leaves", "quantity": "0.20 oz", "price": "Unavailable"},
+    {"ingredient": "Cardamom Pods", "quantity": "0.95 oz", "price": "Unavailable"},
+    {"ingredient": "Cloves", "quantity": "2.05 oz", "price": "Unavailable"},
+    {"ingredient": "Jasmine Rice", "quantity": "5 lb", "price": "Unavailable"},
+    {"ingredient": "Rice Noodles", "quantity": "16 oz", "price": "Unavailable"},
+    {"ingredient": "Soy Sauce", "quantity": "10 fl oz", "price": "Unavailable"},
+    {"ingredient": "Oyster Sauce", "quantity": "7.1 fl oz", "price": "Unavailable"},
+    {"ingredient": "Hoisin Sauce", "quantity": "9.4 fl oz", "price": "Unavailable"},
+    {"ingredient": "Rice Vinegar", "quantity": "5 fl oz", "price": "Unavailable"},
+    {"ingredient": "Sesame Oil", "quantity": "5 fl oz", "price": "Unavailable"},
+    {"ingredient": "Shaoxing Wine", "quantity": "Varies", "price": "Unavailable"}
+  ],
+  "Trader Joe's": [
+    {"ingredient": "Garlic", "quantity": "Varies", "price": "Unavailable"},
+    {"ingredient": "Onions", "quantity": "Varies", "price": "Unavailable"},
+    {"ingredient": "Tomatoes", "quantity": "Varies", "price": "Unavailable"},
+    {"ingredient": "Spinach", "quantity": "Varies", "price": "Unavailable"},
+    {"ingredient": "Potatoes", "quantity": "Varies", "price": "Unavailable"},
+    {"ingredient": "Eggplant", "quantity": "Varies", "price": "Unavailable"},
+    {"ingredient": "Cauliflower", "quantity": "Varies", "price": "Unavailable"},
+    {"ingredient": "Fresh Coriander", "quantity": "Varies", "price": "Unavailable"},
+    {"ingredient": "Yogurt", "quantity": "Varies", "price": "Unavailable"},
+    {"ingredient": "Bay Leaves", "quantity": "0.14 oz", "price": "Unavailable"},
+    {"ingredient": "Cardamom Pods", "quantity": "Varies", "price": "Unavailable"},
+    {"ingredient": "Cloves", "quantity": "Varies", "price": "Unavailable"},
+    {"ingredient": "Jasmine Rice", "quantity": "Varies", "price": "Unavailable"},
+    {"ingredient": "Rice Noodles", "quantity": "Varies", "price": "Unavailable"},
+    {"ingredient": "Soy Sauce", "quantity": "Varies", "price": "Unavailable"},
+    {"ingredient": "Oyster Sauce", "quantity": "12.35 Oz", "price": "Unavailable"},
+    {"ingredient": "Hoisin Sauce", "quantity": "Varies", "price": "Unavailable"},
+    {"ingredient": "Rice Vinegar", "quantity": "Varies", "price": "Unavailable"},
+    {"ingredient": "Sesame Oil", "quantity": "Varies", "price": "Unavailable"},
+    {"ingredient": "Shaoxing Wine", "quantity": "Varies", "price": "Unavailable"}
+  ],
+  "Target": [
+    {"ingredient": "Garlic", "quantity": "Varies", "price": "Unavailable"},
+    {"ingredient": "Onions", "quantity": "Varies", "price": "Unavailable"},
+    {"ingredient": "Tomatoes", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Spinach", "quantity": "Varies", "price": "Unavailable"},
+    {"ingredient": "Potatoes", "quantity": "Varies", "price": "Unavailable"},
+    {"ingredient": "Eggplant", "quantity": "Each", "price": "Unavailable"},
+    {"ingredient": "Cauliflower", "quantity": "Varies", "price": "Unavailable"},
+    {"ingredient": "Fresh Coriander", "quantity": "Bunch", "price": "Unavailable"},
+    {"ingredient": "Yogurt", "quantity": "Varies", "price": "Unavailable"},
+    {"ingredient": "Bay Leaves", "quantity": "0.12oz", "price": "Unavailable"},
+    {"ingredient": "Cardamom Pods", "quantity": "Seed", "price": "Unavailable"},
+    {"ingredient": "Cloves", "quantity": "Varies", "price": "Unavailable"},
+    {"ingredient": "Jasmine Rice", "quantity": "Varies", "price": "Unavailable"},
+    {"ingredient": "Rice Noodles", "quantity": "Varies", "price": "Unavailable"},
+    {"ingredient": "Soy Sauce", "quantity": "Varies", "price": "Unavailable"},
+    {"ingredient": "Oyster Sauce", "quantity": "9oz", "price": "Unavailable"},
+    {"ingredient": "Hoisin Sauce", "quantity": "20oz", "price": "Unavailable"},
+    {"ingredient": "Rice Vinegar", "quantity": "12.7 fl oz", "price": "Unavailable"},
+    {"ingredient": "Sesame Oil", "quantity": "8.45oz", "price": "Unavailable"},
+    {"ingredient": "Shaoxing Wine", "quantity": "Varies", "price": "Unavailable"}
+  ]
+}
+``````json
+{
+  "Ralphs": [
+    {"ingredient": "Tofu", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Bok Choy", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Napa Cabbage", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Chinese Broccoli", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Ginger", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Garlic", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Green Onions", "quantity": "1 bunch", "price": "Unavailable"},
+    {"ingredient": "Bean Sprouts", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Bell Peppers", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Carrots", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Snow Peas", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Shiitake Mushrooms", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Bamboo Shoots", "quantity": "1 can", "price": "Unavailable"},
+    {"ingredient": "Water Chestnuts", "quantity": "1 can", "price": "Unavailable"},
+    {"ingredient": "Chili Oil", "quantity": "1 bottle", "price": "Unavailable"},
+    {"ingredient": "Five-Spice Powder", "quantity": "1 bottle", "price": "Unavailable"},
+    {"ingredient": "White Pepper", "quantity": "1 bottle", "price": "Unavailable"},
+    {"ingredient": "Star Anise", "quantity": "1 oz", "price": "Unavailable"},
+    {"ingredient": "Ground Pork", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Whole Duck", "quantity": "1 duck", "price": "Unavailable"}
+  ],
+  "Trader Joe's": [
+    {"ingredient": "Tofu", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Bok Choy", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Napa Cabbage", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Chinese Broccoli", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Ginger", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Garlic", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Green Onions", "quantity": "1 bunch", "price": "Unavailable"},
+    {"ingredient": "Bean Sprouts", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Bell Peppers", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Carrots", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Snow Peas", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Shiitake Mushrooms", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Bamboo Shoots", "quantity": "1 can", "price": "Unavailable"},
+    {"ingredient": "Water Chestnuts", "quantity": "1 can", "price": "Unavailable"},
+    {"ingredient": "Chili Oil", "quantity": "1 bottle", "price": "Unavailable"},
+    {"ingredient": "Five-Spice Powder", "quantity": "1 bottle", "price": "Unavailable"},
+    {"ingredient": "White Pepper", "quantity": "1 bottle", "price": "Unavailable"},
+    {"ingredient": "Star Anise", "quantity": "1 oz", "price": "Unavailable"},
+    {"ingredient": "Ground Pork", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Whole Duck", "quantity": "1 duck", "price": "Unavailable"}
+  ],
+  "Target": [
+    {"ingredient": "Tofu", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Bok Choy", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Napa Cabbage", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Chinese Broccoli", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Ginger", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Garlic", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Green Onions", "quantity": "1 bunch", "price": "Unavailable"},
+    {"ingredient": "Bean Sprouts", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Bell Peppers", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Carrots", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Snow Peas", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Shiitake Mushrooms", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Bamboo Shoots", "quantity": "1 can", "price": "Unavailable"},
+    {"ingredient": "Water Chestnuts", "quantity": "1 can", "price": "Unavailable"},
+    {"ingredient": "Chili Oil", "quantity": "1 bottle", "price": "Unavailable"},
+    {"ingredient": "Five-Spice Powder", "quantity": "1 bottle", "price": "Unavailable"},
+    {"ingredient": "White Pepper", "quantity": "1 bottle", "price": "Unavailable"},
+    {"ingredient": "Star Anise", "quantity": "1 oz", "price": "Unavailable"},
+    {"ingredient": "Ground Pork", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Whole Duck", "quantity": "1 duck", "price": "Unavailable"}
+  ]
+}
+``````json
+{
+  "Ralphs": [
+    {"ingredient": "Egg Noodles", "quantity": "12 oz", "price": "unavailable"},
+    {"ingredient": "Black Vinegar", "quantity": "20.2 fl oz", "price": "unavailable"},
+    {"ingredient": "All-Purpose Flour", "quantity": "5 lbs", "price": "unavailable"},
+    {"ingredient": "Cornmeal", "quantity": "22 oz", "price": "unavailable"},
+    {"ingredient": "Baking Powder", "quantity": "8.1 oz", "price": "unavailable"},
+    {"ingredient": "Baking Soda", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Butter", "quantity": "16 oz", "price": "unavailable"},
+    {"ingredient": "Eggs", "quantity": "12 ct", "price": "unavailable"},
+    {"ingredient": "Milk", "quantity": "1 gal", "price": "unavailable"},
+    {"ingredient": "Heavy Cream", "quantity": "1 pt", "price": "unavailable"},
+    {"ingredient": "Cheddar Cheese", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Chicken Breast", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Ground Beef", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Bacon", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Hot Dogs", "quantity": "12 oz", "price": "unavailable"},
+    {"ingredient": "Ketchup", "quantity": "38 oz", "price": "unavailable"},
+    {"ingredient": "Mustard", "quantity": "12 oz", "price": "unavailable"},
+    {"ingredient": "Barbecue Sauce", "quantity": "42 oz", "price": "unavailable"},
+    {"ingredient": "Mayonnaise", "quantity": "30 fl oz", "price": "3.79"},
+    {"ingredient": "Ranch Dressing", "quantity": "16 fl oz", "price": "unavailable"}
+  ],
+  "Trader Joe's": [
+    {"ingredient": "Egg Noodles", "quantity": "8 oz", "price": "1.99"},
+    {"ingredient": "Black Vinegar", "quantity": "unavailable", "price": "unavailable"},
+    {"ingredient": "All-Purpose Flour", "quantity": "unavailable", "price": "unavailable"},
+    {"ingredient": "Cornmeal", "quantity": "unavailable", "price": "unavailable"},
+    {"ingredient": "Baking Powder", "quantity": "8.1 oz", "price": "unavailable"},
+    {"ingredient": "Baking Soda", "quantity": "16 oz", "price": "unavailable"},
+    {"ingredient": "Butter", "quantity": "1 lb", "price": "3.99"},
+    {"ingredient": "Eggs", "quantity": "12 ct", "price": "3.49"},
+    {"ingredient": "Milk", "quantity": "0.5 gal", "price": "0.99"},
+    {"ingredient": "Heavy Cream", "quantity": "unavailable", "price": "unavailable"},
+    {"ingredient": "Cheddar Cheese", "quantity": "unavailable", "price": "unavailable"},
+    {"ingredient": "Chicken Breast", "quantity": "unavailable", "price": "unavailable"},
+    {"ingredient": "Ground Beef", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Bacon", "quantity": "unavailable", "price": "unavailable"},
+    {"ingredient": "Hot Dogs", "quantity": "unavailable", "price": "unavailable"},
+    {"ingredient": "Ketchup", "quantity": "24oz", "price": "unavailable"},
+    {"ingredient": "Mustard", "quantity": "9 oz", "price": "unavailable"},
+    {"ingredient": "Barbecue Sauce", "quantity": "18 oz (Pack of 2)", "price": "unavailable"},
+    {"ingredient": "Mayonnaise", "quantity": "16 oz", "price": "3.49"},
+    {"ingredient": "Ranch Dressing", "quantity": "unavailable", "price": "unavailable"}
+  ],
+  "Target": [
+    {"ingredient": "Egg Noodles", "quantity": "12oz", "price": "unavailable"},
+    {"ingredient": "Black Vinegar", "quantity": "unavailable", "price": "unavailable"},
+    {"ingredient": "All-Purpose Flour", "quantity": "5lbs", "price": "unavailable"},
+    {"ingredient": "Cornmeal", "quantity": "16oz", "price": "unavailable"},
+    {"ingredient": "Baking Powder", "quantity": "unavailable", "price": "unavailable"},
+    {"ingredient": "Baking Soda", "quantity": "1lb", "price": "unavailable"},
+    {"ingredient": "Butter", "quantity": "unavailable", "price": "unavailable"},
+    {"ingredient": "Eggs", "quantity": "30ct", "price": "unavailable"},
+    {"ingredient": "Milk", "quantity": "0.5 gal", "price": "0.99"},
+    {"ingredient": "Heavy Cream", "quantity": "32 fl oz", "price": "unavailable"},
+    {"ingredient": "Cheddar Cheese", "quantity": "unavailable", "price": "unavailable"},
+    {"ingredient": "Chicken Breast", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Ground Beef", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Bacon", "quantity": "unavailable", "price": "unavailable"},
+    {"ingredient": "Hot Dogs", "quantity": "15oz/8ct", "price": "unavailable"},
+    {"ingredient": "Ketchup", "quantity": "14oz", "price": "unavailable"},
+    {"ingredient": "Mustard", "quantity": "14oz", "price": "unavailable"},
+    {"ingredient": "Barbecue Sauce", "quantity": "unavailable", "price": "unavailable"},
+    {"ingredient": "Mayonnaise", "quantity": "15oz", "price": "unavailable"},
+    {"ingredient": "Ranch Dressing", "quantity": "8 fl oz", "price": "unavailable"}
+  ]
+}
+``````json
+{
+  "Ralphs": [
+    {"ingredient": "White Bread", "quantity": "1 loaf", "price": "Unknown"},
+    {"ingredient": "Brown Sugar", "quantity": "32 oz", "price": "2.99"},
+    {"ingredient": "Maple Syrup", "quantity": "16.9 fl oz", "price": "Unknown"},
+    {"ingredient": "Potatoes", "quantity": "5 lb", "price": "4.99"},
+    {"ingredient": "Corn", "quantity": "1 ear", "price": "0.79"},
+    {"ingredient": "Green Beans", "quantity": "1 lb", "price": "3.49"},
+    {"ingredient": "Lettuce", "quantity": "1 head", "price": "1.99"},
+    {"ingredient": "Tomatoes", "quantity": "1 bunch", "price": "Unknown"},
+    {"ingredient": "Avocado", "quantity": "1 ct", "price": "1.50"},
+    {"ingredient": "Apple Cider Vinegar", "quantity": "32 fl oz", "price": "5.99"},
+    {"ingredient": "Macaroni Pasta", "quantity": "16 oz", "price": "Unknown"},
+    {"ingredient": "Vegetable Oil", "quantity": "48 fl oz", "price": "4.99"},
+    {"ingredient": "Corn Tortillas", "quantity": "8 ct", "price": "3.29"},
+    {"ingredient": "Flour Tortillas", "quantity": "10 ct", "price": "2.99"},
+    {"ingredient": "Masa Harina", "quantity": "24 oz", "price": "5.29"},
+    {"ingredient": "Black Beans", "quantity": "5 lbs", "price": "Unknown"},
+    {"ingredient": "Pinto Beans", "quantity": "32 oz", "price": "2.49"},
+    {"ingredient": "Refried Beans", "quantity": "Unknown", "price": "Unknown"},
+    {"ingredient": "Mexican Rice", "quantity": "6 oz", "price": "1.49"},
+    {"ingredient": "Avocados", "quantity": "1 ct", "price": "1.50"}
+  ],
+  "Target": [
+    {"ingredient": "White Bread", "quantity": "1 loaf", "price": "Unknown"},
+    {"ingredient": "Brown Sugar", "quantity": "2 lb", "price": "2.69"},
+    {"ingredient": "Maple Syrup", "quantity": "Unknown", "price": "Unknown"},
+    {"ingredient": "Potatoes", "quantity": "Unknown", "price": "Unknown"},
+    {"ingredient": "Corn", "quantity": "Unknown", "price": "Unknown"},
+    {"ingredient": "Green Beans", "quantity": "Unknown", "price": "Unknown"},
+    {"ingredient": "Lettuce", "quantity": "Unknown", "price": "Unknown"},
+    {"ingredient": "Tomatoes", "quantity": "Unknown", "price": "Unknown"},
+    {"ingredient": "Avocado", "quantity": "1 ct", "price": "1.00"},
+    {"ingredient": "Apple Cider Vinegar", "quantity": "32 fl oz", "price": "5.79"},
+    {"ingredient": "Macaroni Pasta", "quantity": "Unknown", "price": "Unknown"},
+    {"ingredient": "Vegetable Oil", "quantity": "Unknown", "price": "Unknown"},
+    {"ingredient": "Corn Tortillas", "quantity": "30 ct", "price": "3.19"},
+    {"ingredient": "Flour Tortillas", "quantity": "16 ct", "price": "3.19"},
+    {"ingredient": "Masa Harina", "quantity": "24 oz", "price": "5.99"},
+    {"ingredient": "Black Beans", "quantity": "15.5oz", "price": "1.29"},
+    {"ingredient": "Pinto Beans", "quantity": "1 lb", "price": "1.49"},
+    {"ingredient": "Refried Beans", "quantity": "Unknown", "price": "Unknown"},
+    {"ingredient": "Mexican Rice", "quantity": "Unknown", "price": "Unknown"},
+    {"ingredient": "Avocados", "quantity": "1 ct", "price": "1.00"}
+  ],
+  "Trader Joe's": [
+    {"ingredient": "White Bread", "quantity": "Unknown", "price": "Unknown"},
+    {"ingredient": "Brown Sugar", "quantity": "Unknown", "price": "Unknown"},
+    {"ingredient": "Maple Syrup", "quantity": "Unknown", "price": "4.99"},
+    {"ingredient": "Potatoes", "quantity": "Unknown", "price": "Unknown"},
+    {"ingredient": "Corn", "quantity": "Unknown", "price": "0.99"},
+    {"ingredient": "Green Beans", "quantity": "Unknown", "price": "Unknown"},
+    {"ingredient": "Lettuce", "quantity": "Unknown", "price": "Unknown"},
+    {"ingredient": "Tomatoes", "quantity": "Unknown", "price": "Unknown"},
+    {"ingredient": "Avocado", "quantity": "Unknown", "price": "Unknown"},
+    {"ingredient": "Apple Cider Vinegar", "quantity": "Unknown", "price": "Unknown"},
+    {"ingredient": "Macaroni Pasta", "quantity": "Unknown", "price": "2.99"},
+    {"ingredient": "Vegetable Oil", "quantity": "Unknown", "price": "Unknown"},
+    {"ingredient": "Corn Tortillas", "quantity": "Unknown", "price": "Unknown"},
+    {"ingredient": "Flour Tortillas", "quantity": "Unknown", "price": "3.99"},
+    {"ingredient": "Masa Harina", "quantity": "Unknown", "price": "Unknown"},
+    {"ingredient": "Black Beans", "quantity": "Unknown", "price": "Unknown"},
+    {"ingredient": "Pinto Beans", "quantity": "Unknown", "price": "Unknown"},
+    {"ingredient": "Refried Beans", "quantity": "Unknown", "price": "Unknown"},
+    {"ingredient": "Mexican Rice", "quantity": "Unknown", "price": "Unknown"},
+    {"ingredient": "Avocados", "quantity": "Unknown", "price": "Unknown"}
+  ]
+}
+``````json
+{
+  "Ralphs": [
+    {"ingredient": "Jalapeños", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Serrano Peppers", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Poblano Peppers", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Tomatillos", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Roma Tomatoes", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Onions", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Garlic", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Cilantro", "quantity": "1 bunch", "price": "unavailable"},
+    {"ingredient": "Limes", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Chipotle Peppers in Adobo", "quantity": "1 can", "price": "unavailable"},
+    {"ingredient": "Ancho Chilies", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Guajillo Chilies", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Queso Fresco", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Cotija Cheese", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Oaxaca Cheese", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Sour Cream (Crema)", "quantity": "16 oz", "price": "unavailable"},
+    {"ingredient": "Chicken Thighs", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Ground Beef", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Chorizo", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Epazote", "quantity": "1 bunch", "price": "unavailable"}
+  ],
+  "Trader Joe's": [
+    {"ingredient": "Jalapeños", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Serrano Peppers", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Poblano Peppers", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Tomatillos", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Roma Tomatoes", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Onions", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Garlic", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Cilantro", "quantity": "1 bunch", "price": "unavailable"},
+    {"ingredient": "Limes", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Chipotle Peppers in Adobo", "quantity": "1 can", "price": "unavailable"},
+    {"ingredient": "Ancho Chilies", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Guajillo Chilies", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Queso Fresco", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Cotija Cheese", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Oaxaca Cheese", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Sour Cream (Crema)", "quantity": "16 oz", "price": "unavailable"},
+    {"ingredient": "Chicken Thighs", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Ground Beef", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Chorizo", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Epazote", "quantity": "1 bunch", "price": "unavailable"}
+  ],
+  "Target": [
+    {"ingredient": "Jalapeños", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Serrano Peppers", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Poblano Peppers", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Tomatillos", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Roma Tomatoes", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Onions", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Garlic", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Cilantro", "quantity": "1 bunch", "price": "unavailable"},
+    {"ingredient": "Limes", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Chipotle Peppers in Adobo", "quantity": "1 can", "price": "unavailable"},
+    {"ingredient": "Ancho Chilies", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Guajillo Chilies", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Queso Fresco", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Cotija Cheese", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Oaxaca Cheese", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Sour Cream (Crema)", "quantity": "16 oz", "price": "unavailable"},
+    {"ingredient": "Chicken Thighs", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Ground Beef", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Chorizo", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Epazote", "quantity": "1 bunch", "price": "unavailable"}
+  ]
+}
+``````json
+{
+  "Ralphs": [
+    {"ingredient": "Avocado Oil", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Mole Sauce", "quantity": "15 oz", "price": "N/A"},
+    {"ingredient": "Corn Husks", "quantity": "16 oz", "price": "N/A"},
+    {"ingredient": "Mexican Oregano", "quantity": "0.1 oz", "price": "N/A"},
+    {"ingredient": "Cinnamon", "quantity": "2.08 oz", "price": "N/A"},
+    {"ingredient": "Bay Leaves", "quantity": "4 oz", "price": "N/A"},
+    {"ingredient": "Agave Syrup", "quantity": "44 oz", "price": "N/A"},
+    {"ingredient": "Olive Oil", "quantity": "50 fl oz", "price": "N/A"},
+    {"ingredient": "Red Wine Vinegar", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Lemons", "quantity": "1 each", "price": "N/A"},
+    {"ingredient": "Garlic", "quantity": "1 ct", "price": "N/A"},
+    {"ingredient": "Onions", "quantity": "1 ct", "price": "N/A"},
+    {"ingredient": "Tomatoes", "quantity": "1 bunch", "price": "N/A"},
+    {"ingredient": "Cucumber", "quantity": "1 ct", "price": "N/A"},
+    {"ingredient": "Bell Peppers", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Eggplant", "quantity": "1 each", "price": "N/A"},
+    {"ingredient": "Zucchini", "quantity": "1 lb", "price": "N/A"},
+    {"ingredient": "Feta Cheese", "quantity": "5 oz", "price": "N/A"},
+    {"ingredient": "Halloumi Cheese", "quantity": "8.8 oz", "price": "N/A"},
+    {"ingredient": "Greek Yogurt", "quantity": "32 oz", "price": "N/A"}
+  ],
+  "Trader Joe's": [
+    {"ingredient": "Avocado Oil", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Mole Sauce", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Corn Husks", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Mexican Oregano", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Cinnamon", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Bay Leaves", "quantity": "0.14 oz", "price": "N/A"},
+    {"ingredient": "Agave Syrup", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Olive Oil", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Red Wine Vinegar", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Lemons", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Garlic", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Onions", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Tomatoes", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Cucumber", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Bell Peppers", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Eggplant", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Zucchini", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Feta Cheese", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Halloumi Cheese", "quantity": "8 oz", "price": "5.99"},
+    {"ingredient": "Greek Yogurt", "quantity": "Varies", "price": "N/A"}
+  ],
+  "Target": [
+    {"ingredient": "Avocado Oil", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Mole Sauce", "quantity": "8.25oz", "price": "N/A"},
+    {"ingredient": "Corn Husks", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Mexican Oregano", "quantity": "0.5 oz", "price": "N/A"},
+    {"ingredient": "Cinnamon", "quantity": "4.1oz", "price": "N/A"},
+    {"ingredient": "Bay Leaves", "quantity": "0.12oz", "price": "N/A"},
+    {"ingredient": "Agave Syrup", "quantity": "23.5oz", "price": "N/A"},
+    {"ingredient": "Olive Oil", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Red Wine Vinegar", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Lemons", "quantity": "Each", "price": "N/A"},
+    {"ingredient": "Garlic", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Onions", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Tomatoes", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Cucumber", "quantity": "Each", "price": "N/A"},
+    {"ingredient": "Bell Peppers", "quantity": "Each", "price": "N/A"},
+    {"ingredient": "Eggplant", "quantity": "Each", "price": "N/A"},
+    {"ingredient": "Zucchini", "quantity": "2 ct", "price": "N/A"},
+    {"ingredient": "Feta Cheese", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Halloumi Cheese", "quantity": "Varies", "price": "N/A"},
+    {"ingredient": "Greek Yogurt", "quantity": "32oz", "price": "N/A"}
+  ]
+}
+``````json
+{
+  "Ralphs": [
+    {
+      "ingredient": "Hummus",
+      "quantity": "10 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Tahini",
+      "quantity": "16 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Pita Bread",
+      "quantity": "4 ct / 14 oz",
+      "price": 2.99
+    },
+    {
+      "ingredient": "Lentils",
+      "quantity": "16 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Chickpeas",
+      "quantity": "15 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Fresh Parsley",
+      "quantity": "0.25 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Fresh Mint",
+      "quantity": "0.5 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Kalamata Olives",
+      "quantity": "6.3 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Capers",
+      "quantity": "3.5 fl oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Orzo Pasta",
+      "quantity": "16 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Bulgur Wheat",
+      "quantity": "24 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Rice",
+      "quantity": "32 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Ground Lamb",
+      "quantity": "1 lb",
+      "price": "N/A"
+    },
+    {
       "ingredient": "Chicken Breast",
       "quantity": "1 lb",
       "price": "N/A"
     },
     {
-      "ingredient": "Eggs",
-      "quantity": "1 dozen",
-      "price": 3.49
+      "ingredient": "Sardines",
+      "quantity": "15 oz",
+      "price": "N/A"
     },
     {
-      "ingredient": "Brown Jasmine Rice",
-      "quantity": "3 lbs",
-      "price": 13.99
+      "ingredient": "Anchovies",
+      "quantity": "4.25 oz",
+      "price": "N/A"
     },
     {
-      "ingredient": "Organic Whole Wheat Spaghetti",
+      "ingredient": "Paprika",
+      "quantity": "2 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Olive Oil",
+      "quantity": "50 fl oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Lemon Juice",
+      "quantity": "15 fl oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Garlic",
+      "quantity": "1 ct",
+      "price": "N/A"
+    }
+  ],
+  "Trader Joe's": [
+    {
+      "ingredient": "Hummus",
       "quantity": "16 oz",
-      "price": "N/A"
+      "price": 4.00
     },
     {
-      "ingredient": "Murasaki Sweet Potatoes",
-      "quantity": "3 Lb",
-      "price": "N/A"
-    },
-    {
-      "ingredient": "Organic Baby Spinach",
+      "ingredient": "Tahini",
       "quantity": "N/A",
       "price": "N/A"
     },
     {
-      "ingredient": "Organic Shredded Kale",
-      "quantity": "10 Oz",
+      "ingredient": "Pita Bread",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Lentils",
+      "quantity": "N/A",
+      "price": 0.99
+    },
+    {
+      "ingredient": "Chickpeas",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Fresh Parsley",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Fresh Mint",
+      "quantity": "3oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Kalamata Olives",
+      "quantity": "12 oz",
+      "price": 11.90
+    },
+    {
+      "ingredient": "Capers",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Orzo Pasta",
+      "quantity": "N/A",
+      "price": 0.99
+    },
+    {
+      "ingredient": "Bulgur Wheat",
+      "quantity": "8.8 oz",
+      "price": 1.49
+    },
+    {
+      "ingredient": "Rice",
+      "quantity": "48oz",
+      "price": 13.49
+    },
+       {
+      "ingredient": "Ground Lamb",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Chicken Breast",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Sardines",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Anchovies",
+      "quantity": "N/A",
+      "price": 1.79
+    },
+    {
+      "ingredient": "Paprika",
+      "quantity": "2.6 Ounce",
+      "price": 14.98
+    },
+    {
+      "ingredient": "Olive Oil",
+      "quantity": "N/A",
+      "price": 10.99
+    },
+    {
+      "ingredient": "Lemon Juice",
+      "quantity": "8-ounces",
+      "price": 3.29
+    },
+    {
+      "ingredient": "Garlic",
+      "quantity": "N/A",
+      "price": "N/A"
+    }
+  ],
+  "Target": [
+    {
+      "ingredient": "Hummus",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Tahini",
+      "quantity": "15oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Pita Bread",
+      "quantity": "12oz/4ct",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Lentils",
+      "quantity": "1lb",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Chickpeas",
+      "quantity": "15.5oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Fresh Parsley",
+      "quantity": "0.5oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Fresh Mint",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Kalamata Olives",
+      "quantity": "6.5oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Capers",
+      "quantity": "3.5oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Orzo Pasta",
+      "quantity": "16oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Bulgur Wheat",
+      "quantity": "24 Oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Rice",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Ground Lamb",
+      "quantity": "16oz",
+      "price": 6.49
+    },
+    {
+      "ingredient": "Chicken Breast",
+      "quantity": "1.5-3.2lbs",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Sardines",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Anchovies",
+      "quantity": "2 Oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Paprika",
+      "quantity": "2.12oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Olive Oil",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Lemon Juice",
+      "quantity": "15 Fl Oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Garlic",
+      "quantity": "3ct",
+      "price": "N/A"
+    }
+  ]
+}
+``````json
+{
+  "Ralphs": [
+    {
+      "ingredient": "Onions",
+      "quantity": "1 ct",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Tomatoes",
+      "quantity": "1 ct",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Cucumbers",
+      "quantity": "1 lb",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Bell Peppers",
+      "quantity": "3 ct",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Oregano",
+      "quantity": "0.75 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Dill",
+      "quantity": "0.75 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Mint",
+      "quantity": "1 ct",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Parsley",
+      "quantity": "0.5 oz",
+      "price": 1.25
+    },
+    {
+      "ingredient": "Feta Cheese",
+      "quantity": "5 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Kalamata Olives",
+      "quantity": "6.3 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Greek Yogurt",
+      "quantity": "32 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Pita Bread",
+      "quantity": "6 ct",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Phyllo Dough",
+      "quantity": "1 ct",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Honey",
+      "quantity": "12 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Rice",
+      "quantity": "20 lb",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Bulgur Wheat",
+      "quantity": "24 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Lentils",
+      "quantity": "16 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Chickpeas",
+      "quantity": "15 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Lamb",
+      "quantity": "1 lb",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Chicken Thighs",
+      "quantity": "1 lb",
+      "price": "N/A"
+    }
+  ],
+  "Trader Joe's": [
+    {
+      "ingredient": "Onions",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Tomatoes",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Cucumbers",
+      "quantity": "N/A",
       "price": "N/A"
     },
     {
@@ -256,69 +1156,1176 @@
       "price": "N/A"
     },
     {
-      "ingredient": "Organic Carrots of Many Colors",
+      "ingredient": "Oregano",
       "quantity": "N/A",
       "price": "N/A"
     },
     {
-      "ingredient": "Broccoli Florets",
+      "ingredient": "Dill",
       "quantity": "N/A",
-      "price": 2.29
-    },
-    {
-      "ingredient": "Extra Virgin Olive Oil",
-      "quantity": "Premium",
       "price": "N/A"
     },
     {
-      "ingredient": "Gourmet Fresh PURPLE GARLIC",
+      "ingredient": "Mint",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Parsley",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Feta Cheese",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Kalamata Olives",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Greek Yogurt",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Pita Bread",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Phyllo Dough",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Honey",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Rice",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+   {
+      "ingredient": "Bulgur Wheat",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Lentils",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Chickpeas",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Lamb",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Chicken Thighs",
+      "quantity": "N/A",
+      "price": "N/A"
+   }
+  ],
+  "Target": [
+    {
+      "ingredient": "Onions",
+      "quantity": "3lb bag",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Tomatoes",
+      "quantity": "1 lb",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Cucumbers",
+      "quantity": "1 ct",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Bell Peppers",
+      "quantity": "1 ct",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Oregano",
+      "quantity": "0.75oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Dill",
+      "quantity": "0.5oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Mint",
+      "quantity": "0.5oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Parsley",
+      "quantity": "0.35oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Feta Cheese",
+      "quantity": "12oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Kalamata Olives",
+      "quantity": "4 ct",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Greek Yogurt",
+      "quantity": "32oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Pita Bread",
+      "quantity": "4 ct",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Phyllo Dough",
+      "quantity": "16oz/2ct",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Honey",
+      "quantity": "12oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Rice",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+   {
+      "ingredient": "Bulgur Wheat",
+      "quantity": "24 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Lentils",
+      "quantity": "1 lb",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Chickpeas",
+      "quantity": "15.5oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Lamb",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Chicken Thighs",
+      "quantity": "N/A",
+      "price": "N/A"
+   }
+  ]
+}
+``````json
+{
+  "Ralphs": [
+    {"ingredient": "White Fish Fillets", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Eggplant", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Zucchini", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Spinach", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Red Wine Vinegar", "quantity": "1 bottle", "price": "unavailable"},
+    {"ingredient": "Cinnamon", "quantity": "1 bottle", "price": "unavailable"},
+    {"ingredient": "Nutmeg", "quantity": "1 bottle", "price": "unavailable"},
+    {"ingredient": "Olive Oil", "quantity": "1 bottle", "price": "unavailable"},
+    {"ingredient": "Garlic", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Onions", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Basil", "quantity": "1 bunch", "price": "unavailable"},
+    {"ingredient": "Oregano", "quantity": "1 bunch", "price": "unavailable"},
+    {"ingredient": "Thyme", "quantity": "1 bunch", "price": "unavailable"},
+    {"ingredient": "Parsley", "quantity": "1 bunch", "price": "unavailable"},
+    {"ingredient": "Rosemary", "quantity": "1 bunch", "price": "unavailable"},
+    {"ingredient": "Tomatoes", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Tomato Paste", "quantity": "1 can", "price": "unavailable"},
+    {"ingredient": "Parmesan Cheese", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Mozzarella Cheese", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Ricotta Cheese", "quantity": "1 lb", "price": "unavailable"}
+  ],
+  "Trader Joe's": [
+    {"ingredient": "White Fish Fillets", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Eggplant", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Zucchini", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Spinach", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Red Wine Vinegar", "quantity": "1 bottle", "price": "unavailable"},
+    {"ingredient": "Cinnamon", "quantity": "1 bottle", "price": "unavailable"},
+    {"ingredient": "Nutmeg", "quantity": "1 bottle", "price": "unavailable"},
+    {"ingredient": "Olive Oil", "quantity": "1 bottle", "price": "unavailable"},
+    {"ingredient": "Garlic", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Onions", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Basil", "quantity": "1 bunch", "price": "unavailable"},
+    {"ingredient": "Oregano", "quantity": "1 bunch", "price": "unavailable"},
+    {"ingredient": "Thyme", "quantity": "1 bunch", "price": "unavailable"},
+    {"ingredient": "Parsley", "quantity": "1 bunch", "price": "unavailable"},
+    {"ingredient": "Rosemary", "quantity": "1 bunch", "price": "unavailable"},
+    {"ingredient": "Tomatoes", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Tomato Paste", "quantity": "1 can", "price": "unavailable"},
+    {"ingredient": "Parmesan Cheese", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Mozzarella Cheese", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Ricotta Cheese", "quantity": "1 lb", "price": "unavailable"}
+  ],
+  "Target": [
+    {"ingredient": "White Fish Fillets", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Eggplant", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Zucchini", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Spinach", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Red Wine Vinegar", "quantity": "1 bottle", "price": "unavailable"},
+    {"ingredient": "Cinnamon", "quantity": "1 bottle", "price": "unavailable"},
+    {"ingredient": "Nutmeg", "quantity": "1 bottle", "price": "unavailable"},
+    {"ingredient": "Olive Oil", "quantity": "1 bottle", "price": "unavailable"},
+    {"ingredient": "Garlic", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Onions", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Basil", "quantity": "1 bunch", "price": "unavailable"},
+    {"ingredient": "Oregano", "quantity": "1 bunch", "price": "unavailable"},
+    {"ingredient": "Thyme", "quantity": "1 bunch", "price": "unavailable"},
+    {"ingredient": "Parsley", "quantity": "1 bunch", "price": "unavailable"},
+    {"ingredient": "Rosemary", "quantity": "1 bunch", "price": "unavailable"},
+    {"ingredient": "Tomatoes", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Tomato Paste", "quantity": "1 can", "price": "unavailable"},
+    {"ingredient": "Parmesan Cheese", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Mozzarella Cheese", "quantity": "1 lb", "price": "unavailable"},
+    {"ingredient": "Ricotta Cheese", "quantity": "1 lb", "price": "unavailable"}
+  ]
+}
+``````json
+{
+  "Ralphs": [
+    {"ingredient": "Spaghetti", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Penne", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Fettuccine", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Arborio Rice", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Prosciutto", "quantity": "4 oz", "price": "Unavailable"},
+    {"ingredient": "Italian Sausage", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Ground Beef", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Chicken Breast", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Red Wine", "quantity": "750ml", "price": "Unavailable"},
+    {"ingredient": "Balsamic Vinegar", "quantity": "12.7 oz", "price": "Unavailable"},
+    {"ingredient": "Capers", "quantity": "3.5 oz", "price": "Unavailable"},
+    {"ingredient": "Artichokes", "quantity": "1 each", "price": "Unavailable"},
+    {"ingredient": "Eggplant", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Zucchini", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Bell Peppers", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Cannellini Beans", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Pine Nuts", "quantity": "1 oz", "price": "Unavailable"},
+    {"ingredient": "Bread Flour", "quantity": "5 lb", "price": "Unavailable"},
+    {"ingredient": "Basil Pesto", "quantity": "6 oz", "price": "Unavailable"},
+    {"ingredient": "Jasmine Rice", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Sticky Rice", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Rice Noodles", "quantity": "1 lb", "price": "Unavailable"}
+  ],
+  "Trader Joe's": [
+    {"ingredient": "Spaghetti", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Penne", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Fettuccine", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Arborio Rice", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Prosciutto", "quantity": "4 oz", "price": "Unavailable"},
+    {"ingredient": "Italian Sausage", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Ground Beef", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Chicken Breast", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Red Wine", "quantity": "750ml", "price": "Unavailable"},
+    {"ingredient": "Balsamic Vinegar", "quantity": "12.7 oz", "price": "Unavailable"},
+    {"ingredient": "Capers", "quantity": "3.5 oz", "price": "Unavailable"},
+    {"ingredient": "Artichokes", "quantity": "1 each", "price": "Unavailable"},
+    {"ingredient": "Eggplant", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Zucchini", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Bell Peppers", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Cannellini Beans", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Pine Nuts", "quantity": "1 oz", "price": "Unavailable"},
+    {"ingredient": "Bread Flour", "quantity": "5 lb", "price": "Unavailable"},
+    {"ingredient": "Basil Pesto", "quantity": "6 oz", "price": "Unavailable"},
+    {"ingredient": "Jasmine Rice", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Sticky Rice", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Rice Noodles", "quantity": "1 lb", "price": "Unavailable"}
+  ],
+  "Target": [
+    {"ingredient": "Spaghetti", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Penne", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Fettuccine", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Arborio Rice", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Prosciutto", "quantity": "4 oz", "price": "Unavailable"},
+    {"ingredient": "Italian Sausage", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Ground Beef", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Chicken Breast", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Red Wine", "quantity": "750ml", "price": "Unavailable"},
+    {"ingredient": "Balsamic Vinegar", "quantity": "12.7 oz", "price": "Unavailable"},
+    {"ingredient": "Capers", "quantity": "3.5 oz", "price": "Unavailable"},
+    {"ingredient": "Artichokes", "quantity": "1 each", "price": "Unavailable"},
+    {"ingredient": "Eggplant", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Zucchini", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Bell Peppers", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Cannellini Beans", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Pine Nuts", "quantity": "1 oz", "price": "Unavailable"},
+    {"ingredient": "Bread Flour", "quantity": "5 lb", "price": "Unavailable"},
+    {"ingredient": "Basil Pesto", "quantity": "6 oz", "price": "Unavailable"},
+    {"ingredient": "Jasmine Rice", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Sticky Rice", "quantity": "1 lb", "price": "Unavailable"},
+    {"ingredient": "Rice Noodles", "quantity": "1 lb", "price": "Unavailable"}
+  ]
+}
+``````json
+{
+  "Ralphs": [
+    {
+      "ingredient": "Coconut Milk",
+      "quantity": "8.5 fl oz",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Fish Sauce",
+      "quantity": "6.76 oz",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Soy Sauce",
+      "quantity": "10 fl oz",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Oyster Sauce",
+      "quantity": "7.1 fl oz",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Thai Chili Paste",
+      "quantity": "Varies",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Thai Green Curry Paste",
+      "quantity": "1.75 oz",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Thai Red Curry Paste",
+      "quantity": "1.75 oz",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Lemongrass",
+      "quantity": "3.53oz",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Galangal",
+      "quantity": "3 oz",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Kaffir Lime Leaves",
+      "quantity": "Varies",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Thai Basil",
+      "quantity": "0.66 oz",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Cilantro",
+      "quantity": "1 bunch",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Green Onions",
+      "quantity": "1 bunch",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Garlic",
+      "quantity": "1 ct",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Shallots",
+      "quantity": "3 oz",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Bird’s Eye Chilies",
+      "quantity": "Varies",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Tamarind Paste",
+      "quantity": "11 oz",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Palm Sugar",
+      "quantity": "8 oz",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Limes",
+      "quantity": "1 each",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Bean Sprouts",
+      "quantity": "14 oz",
+      "price": "Unavailable"
+    }
+  ],
+  "Trader Joe's": [
+    {
+      "ingredient": "Coconut Milk",
+      "quantity": "13.5 FL. OZ",
+      "price": "1.70"
+    },
+    {
+      "ingredient": "Fish Sauce",
+      "quantity": "Varies",
+      "price": "4.99"
+    },
+    {
+      "ingredient": "Soy Sauce",
+      "quantity": "17.6 FL oz",
+      "price": "Varies"
+    },
+    {
+      "ingredient": "Oyster Sauce",
+      "quantity": "Varies",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Thai Chili Paste",
+      "quantity": "Varies",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Thai Green Curry Paste",
+      "quantity": "Varies",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Thai Red Curry Paste",
+      "quantity": "Varies",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Lemongrass",
+      "quantity": "Varies",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Galangal",
+      "quantity": "Varies",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Kaffir Lime Leaves",
+      "quantity": "Varies",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Thai Basil",
+      "quantity": "Varies",
+      "price": "2.99"
+    },
+    {
+      "ingredient": "Cilantro",
+      "quantity": "Varies",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Green Onions",
+      "quantity": "Varies",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Garlic",
       "quantity": "4 bulbs",
-      "price": 1.99
+      "price": "1.99"
     },
     {
-      "ingredient": "Yellow Onions",
-      "quantity": "N/A",
-      "price": "N/A"
+      "ingredient": "Shallots",
+      "quantity": "Varies",
+      "price": "Unavailable"
     },
     {
-      "ingredient": "Organic Ground Black Pepper",
-      "quantity": "2 Oz",
-      "price": "N/A"
+      "ingredient": "Bird’s Eye Chilies",
+      "quantity": "Varies",
+      "price": "Unavailable"
     },
     {
-      "ingredient": "Smoked Paprika",
-      "quantity": "2.6 Ounce",
-      "price": "N/A"
+      "ingredient": "Tamarind Paste",
+      "quantity": "Varies",
+      "price": "Unavailable"
     },
     {
-      "ingredient": "Organic Oregano",
-      "quantity": ".45 oz",
-      "price": "N/A"
+      "ingredient": "Palm Sugar",
+      "quantity": "Varies",
+      "price": "Unavailable"
     },
     {
-      "ingredient": "Organic Basil",
-      "quantity": "Plant",
-      "price": 2.99
+      "ingredient": "Limes",
+      "quantity": "1 lb Bag",
+      "price": "Unavailable"
     },
     {
-      "ingredient": "Greek yogurt",
-      "quantity": "N/A",
-      "price": 0.99
+      "ingredient": "Bean Sprouts",
+      "quantity": "Varies",
+      "price": "Unavailable"
+    }
+  ],
+  "Target": [
+    {
+      "ingredient": "Coconut Milk",
+      "quantity": "13.5oz",
+      "price": "Unavailable"
     },
     {
-      "ingredient": "Organic Tricolor Quinoa",
+      "ingredient": "Fish Sauce",
+      "quantity": "17 oz",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Soy Sauce",
+      "quantity": "15oz",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Oyster Sauce",
+      "quantity": "9oz",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Thai Chili Paste",
+      "quantity": "Varies",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Thai Green Curry Paste",
+      "quantity": "7.8 oz",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Thai Red Curry Paste",
+      "quantity": "7.8 oz",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Lemongrass",
+      "quantity": "Organic Foods",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Galangal",
+      "quantity": "4.0 oz",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Kaffir Lime Leaves",
+      "quantity": "Varies",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Thai Basil",
+      "quantity": "Varies",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Cilantro",
+      "quantity": "0.5oz",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Green Onions",
+      "quantity": "5.5oz",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Garlic",
+      "quantity": "3ct",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Shallots",
+      "quantity": "Fresh ",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Bird’s Eye Chilies",
+      "quantity": "Varies",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Tamarind Paste",
+      "quantity": "12 oz",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Palm Sugar",
+      "quantity": "16oz",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Limes",
+      "quantity": "1lb Bag",
+      "price": "Unavailable"
+    },
+    {
+      "ingredient": "Bean Sprouts",
+      "quantity": "14 oz",
+      "price": "Unavailable"
+    }
+  ]
+}
+``````json
+{
+  "Ralphs": [
+    {"ingredient": "Peanuts", "quantity": "24 oz", "price": "Unknown"},
+    {"ingredient": "Coconut Sugar", "quantity": "1 lb", "price": "Unknown"},
+    {"ingredient": "Tofu", "quantity": "14 oz", "price": "Unavailable"},
+    {"ingredient": "Ground Pork", "quantity": "1 lb", "price": "Unknown"},
+    {"ingredient": "Chicken Breast", "quantity": "1 lb", "price": "Unknown"},
+    {"ingredient": "Shrimp", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Cashew Nuts", "quantity": "16 oz", "price": "Unknown"},
+    {"ingredient": "Eggplant", "quantity": "1 each", "price": "Unknown"},
+    {"ingredient": "Bamboo Shoots", "quantity": "8 oz", "price": "Unknown"},
+    {"ingredient": "Water Spinach", "quantity": "10 oz", "price": "Unknown"},
+    {"ingredient": "Carrots", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Cucumber", "quantity": "1 ct", "price": "Unknown"},
+    {"ingredient": "Short-Grain Rice", "quantity": "15 lb", "price": "Unknown"},
+    {"ingredient": "Nori", "quantity": "0.81 oz", "price": "Unknown"},
+    {"ingredient": "Miso Paste", "quantity": "35.3oz", "price": "Unknown"},
+    {"ingredient": "Soy Sauce", "quantity": "10 fl oz", "price": "Unknown"},
+    {"ingredient": "Mirin", "quantity": "10.1 fl oz", "price": "Unknown"},
+    {"ingredient": "Sake", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Rice Vinegar", "quantity": "5 fl oz", "price": "Unknown"},
+    {"ingredient": "Dashi", "quantity": "6 pk / 1.4 oz", "price": "Unknown"}
+  ],
+  "Trader Joe's": [
+    {"ingredient": "Peanuts", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Coconut Sugar", "quantity": "1 lb", "price": "Unknown"},
+    {"ingredient": "Tofu", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Ground Pork", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Chicken Breast", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Shrimp", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Cashew Nuts", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Eggplant", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Bamboo Shoots", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Water Spinach", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Carrots", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Cucumber", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Short-Grain Rice", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Nori", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Miso Paste", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Soy Sauce", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Mirin", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Sake", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Rice Vinegar", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Dashi", "quantity": "Varies", "price": "Unknown"}
+  ],
+  "Target": [
+    {"ingredient": "Peanuts", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Coconut Sugar", "quantity": "16oz", "price": "Unknown"},
+    {"ingredient": "Tofu", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Ground Pork", "quantity": "1lb", "price": "Unknown"},
+    {"ingredient": "Chicken Breast", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Shrimp", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Cashew Nuts", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Eggplant", "quantity": "Each", "price": "Unknown"},
+    {"ingredient": "Bamboo Shoots", "quantity": "8 Oz", "price": "Unknown"},
+    {"ingredient": "Water Spinach", "quantity": "19oz", "price": "Unknown"},
+    {"ingredient": "Carrots", "quantity": "Varies", "price": "Not found"},
+    {"ingredient": "Cucumber", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Short-Grain Rice", "quantity": "16oz", "price": "Unknown"},
+    {"ingredient": "Nori", "quantity": "0.81oz", "price": "Unknown"},
+    {"ingredient": "Miso Paste", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Soy Sauce", "quantity": "Varies", "price": "Not found"},
+    {"ingredient": "Mirin", "quantity": "10.1 Fl Oz (300 Ml)", "price": "Unknown"},
+    {"ingredient": "Sake", "quantity": "Varies", "price": "Unknown"},
+    {"ingredient": "Rice Vinegar", "quantity": "12.7 fl oz", "price": "Unknown"},
+    {"ingredient": "Dashi", "quantity": "Varies", "price": "Unknown"}
+  ]
+}
+``````json
+{
+  "Ralphs": [
+    {
+      "ingredient": "Bonito Flakes",
+      "quantity": "1.05 oz",
+      "price": null
+    },
+    {
+      "ingredient": "Kombu",
+      "quantity": "2.1 oz",
+      "price": null
+    },
+    {
+      "ingredient": "Tofu",
+      "quantity": "14 oz",
+      "price": null
+    },
+    {
+      "ingredient": "Shiitake Mushrooms",
+      "quantity": "1 lb",
+      "price": null
+    },
+    {
+      "ingredient": "Enoki Mushrooms",
+      "quantity": null,
+      "price": null
+    },
+    {
+      "ingredient": "White Radish",
+      "quantity": "1 each",
+      "price": null
+    },
+    {
+      "ingredient": "Green Onions",
+      "quantity": "1 each",
+      "price": null
+    },
+    {
+      "ingredient": "Bok Choy",
+      "quantity": "1 each",
+      "price": null
+    },
+    {
+      "ingredient": "Spinach",
+      "quantity": "1 count",
+      "price": null
+    },
+    {
+      "ingredient": "Nappa Cabbage",
+      "quantity": "1 lb",
+      "price": null
+    },
+    {
+      "ingredient": "Edamame",
       "quantity": "16 oz",
+      "price": null
+    },
+    {
+      "ingredient": "Wasabi",
+      "quantity": "2.5 oz",
+      "price": null
+    },
+    {
+      "ingredient": "Pickled Ginger",
+      "quantity": "6.7 oz",
+      "price": null
+    },
+    {
+      "ingredient": "Ramen Noodles",
+      "quantity": "3 oz",
+      "price": 3.29
+    },
+    {
+      "ingredient": "Udon Noodles",
+      "quantity": "8 oz",
+      "price": null
+    },
+    {
+      "ingredient": "Soba Noodles",
+      "quantity": "12.8 oz",
+      "price": null
+    },
+    {
+      "ingredient": "Matcha",
+      "quantity": "0.71 oz",
+      "price": null
+    },
+    {
+      "ingredient": "Japanese Mayonnaise",
+      "quantity": "17.64 oz",
+      "price": null
+    },
+    {
+      "ingredient": "Furikake",
+      "quantity": "1.7 oz",
+      "price": null
+    },
+    {
+      "ingredient": "Wakame",
+      "quantity": "1.76 oz",
+      "price": null
+    }
+  ],
+  "Trader Joe's": [
+    {
+      "ingredient": "Bonito Flakes",
+      "quantity": null,
+      "price": null
+    },
+    {
+      "ingredient": "Kombu",
+      "quantity": null,
+      "price": null
+    },
+    {
+      "ingredient": "Tofu",
+      "quantity": null,
+      "price": null
+    },
+    {
+      "ingredient": "Shiitake Mushrooms",
+      "quantity": "3.5 oz",
+      "price": 3.49
+    },
+    {
+      "ingredient": "Enoki Mushrooms",
+      "quantity": null,
+      "price": null
+    },
+    {
+      "ingredient": "White Radish",
+      "quantity": null,
+      "price": null
+    },
+    {
+      "ingredient": "Green Onions",
+      "quantity": null,
+      "price": null
+    },
+    {
+      "ingredient": "Bok Choy",
+      "quantity": null,
+      "price": null
+    },
+    {
+      "ingredient": "Spinach",
+      "quantity": null,
+      "price": null
+    },
+    {
+      "ingredient": "Nappa Cabbage",
+      "quantity": null,
+      "price": null
+    },
+    {
+      "ingredient": "Edamame",
+      "quantity": null,
+      "price": null
+    },
+    {
+      "ingredient": "Wasabi",
+      "quantity": null,
+      "price": null
+    },
+    {
+      "ingredient": "Pickled Ginger",
+      "quantity": null,
+      "price": null
+    },
+    {
+      "ingredient": "Ramen Noodles",
+      "quantity": null,
+      "price": null
+    },
+    {
+      "ingredient": "Udon Noodles",
+      "quantity": null,
+      "price": null
+    },
+    {
+      "ingredient": "Soba Noodles",
+      "quantity": null,
+      "price": null
+    },
+    {
+      "ingredient": "Matcha",
+      "quantity": null,
+      "price": null
+    },
+    {
+      "ingredient": "Japanese Mayonnaise",
+      "quantity": null,
+      "price": null
+    },
+    {
+      "ingredient": "Furikake",
+      "quantity": "1.95 oz",
+      "price": 2.49
+    },
+    {
+      "ingredient": "Wakame",
+      "quantity": null,
+      "price": null
+    }
+  ],
+  "Target": [
+    {
+      "ingredient": "Bonito Flakes",
+      "quantity": "1 oz",
+      "price": null
+    },
+    {
+      "ingredient": "Kombu",
+      "quantity": "1.76 oz",
+      "price": null
+    },
+    {
+      "ingredient": "Tofu",
+      "quantity": null,
+      "price": null
+    },
+    {
+      "ingredient": "Shiitake Mushrooms",
+      "quantity": "1 oz",
+      "price": null
+    },
+    {
+      "ingredient": "Enoki Mushrooms",
+      "quantity": null,
+      "price": null
+    },
+    {
+      "ingredient": "White Radish",
+      "quantity": null,
+      "price": null
+    },
+    {
+      "ingredient": "Green Onions",
+      "quantity": "5.5 oz",
+      "price": null
+    },
+    {
+      "ingredient": "Bok Choy",
+      "quantity": "1 lb",
+      "price": null
+    },
+    {
+      "ingredient": "Spinach",
+      "quantity": "5 oz",
+      "price": null
+    },
+    {
+      "ingredient": "Nappa Cabbage",
+      "quantity": "1 lb",
+      "price": null
+    },
+    {
+      "ingredient": "Edamame",
+      "quantity": null,
+      "price": null
+    },
+    {
+      "ingredient": "Wasabi",
+      "quantity": "1.52 oz",
+      "price": null
+    },
+    {
+      "ingredient": "Pickled Ginger",
+      "quantity": "6.7 oz",
+      "price": null
+    },
+    {
+      "ingredient": "Ramen Noodles",
+      "quantity": "6 ct",
+      "price": null
+    },
+    {
+      "ingredient": "Udon Noodles",
+      "quantity": "7.76oz",
+      "price": null
+    },
+    {
+      "ingredient": "Soba Noodles",
+      "quantity": "14 oz",
+      "price": null
+    },
+    {
+      "ingredient": "Matcha",
+      "quantity": "1 oz",
+      "price": null
+    },
+    {
+      "ingredient": "Japanese Mayonnaise",
+      "quantity": "17.64 oz",
+      "price": null
+    },
+    {
+      "ingredient": "Furikake",
+      "quantity": "1.7oz",
+      "price": null
+    },
+    {
+      "ingredient": "Wakame",
+      "quantity": "2.1 oz",
+      "price": null
+    }
+  ]
+}
+``````json
+{
+  "Ralphs": [
+    {
+      "ingredient": "Salmon Roe",
+      "quantity": "1 oz",
       "price": "N/A"
     },
     {
-      "ingredient": "Raw Almonds",
-      "quantity": "N/A",
-      "price": 3.99
+      "ingredient": "Tuna Steak",
+      "quantity": "1 lb",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Eel",
+      "quantity": "7 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Tempura Flour",
+      "quantity": "1 kg",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Panko Breadcrumbs",
+      "quantity": "8 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Katsu Sauce",
+      "quantity": "11.75 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Lemons",
+      "quantity": "1 each",
+      "price": "N/A"
     },
     {
       "ingredient": "Avocado",
-      "quantity": "Each",
-      "price": 1.49
+      "quantity": "1 each",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Banana",
+      "quantity": "1 each",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Apples",
+      "quantity": "3 lb",
+      "price": "N/A"
+    }
+  ],
+  "Target": [
+    {
+      "ingredient": "Salmon Roe",
+      "quantity": "2 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Tuna",
+      "quantity": "5 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Eel",
+      "quantity": "11.8oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Tempura Flour",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Panko Bread Crumbs",
+      "quantity": "8oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Katsu Sauce",
+      "quantity": "11.75 oz",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Lemon",
+      "quantity": "1 Each",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Avocado",
+      "quantity": "1 Each",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Banana",
+      "quantity": "1 Each",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Apples",
+      "quantity": "N/A",
+      "price": "N/A"
+    }
+  ],
+  "Trader Joe's": [
+    {
+      "ingredient": "Salmon Roe",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Tuna",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Eel",
+      "quantity": "1.1lb(500g)",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Tempura Seaweed Snack",
+      "quantity": "N/A",
+      "price": "$3.29"
+    },
+    {
+      "ingredient": "Panko Breadcrumbs",
+      "quantity": "7oz",
+      "price": "$10.95"
+    },
+    {
+      "ingredient": "Katsu Sauce",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Lemons",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Avocados",
+      "quantity": "N/A",
+      "price": "N/A"
+    },
+    {
+      "ingredient": "Bananas",
+      "quantity": "each",
+      "price": "0.23"
+    },
+    {
+      "ingredient": "Apples",
+      "quantity": "N/A",
+      "price": "N/A"
     }
   ]
 }

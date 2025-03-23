@@ -2,6 +2,7 @@ from phi.agent import Agent
 from phi.model.groq import Groq
 from phi.model.google import Gemini
 from phi.tools.exa import ExaTools
+import streamlit as st
 
 def cooker(prompt):
     
@@ -24,6 +25,10 @@ def cooker(prompt):
             "Label Days as days of week."
         ]
     )
-    response= chef_agent.run(prompt, stream=False)
+    with st.status("Cooking something special...", expanded=True) as status:
+        response= chef_agent.run(prompt, stream=False)
+        status.update(
+        label="It's time!!", state="complete", expanded=False
+        )
 
     return str(response.content)
