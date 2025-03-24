@@ -1,8 +1,6 @@
 import streamlit as st
-import streamlit as st
-from google.oauth2 import id_token
-from google.auth.transport import requests
 from streamlit_google_auth import Authenticate
+
 
 st.set_page_config (
     page_title="Hermes List",
@@ -13,8 +11,9 @@ st.set_page_config (
 authenticator = Authenticate(
     secret_credentials_path='google_secret.json',
     cookie_name='my_cookie_name',
-    cookie_key='378228839291001039191030201',
-    redirect_uri=["https://aryanparab-grocery-list-generator-streamlit-app-dxclse.streamlit.app/oauth2callback","http://localhost:8501/oauth2callback"],
+    cookie_key="378228839291001039191030201",
+    redirect_uri="https://aryanparab-grocery-list-generator-streamlit-app-dxclse.streamlit.app",
+    #redirect_uri="http://localhost:8501",
 )
 
 

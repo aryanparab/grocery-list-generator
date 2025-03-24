@@ -4,8 +4,7 @@ from phi.model.groq import Groq
 from phi.model.google import Gemini
 from phi.tools.exa import ExaTools
 from grocery_list.ing import cuisine_ingredients
-import time
-import json
+
 
 st.title("Todo-dumm")
 st.subheader("Let's get your fridge filled!")
