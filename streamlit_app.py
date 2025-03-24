@@ -31,7 +31,11 @@ def Logout():
     if st.button("Logut?"):
        
         authenticator.logout()
-
+try : 
+    if not st.session_state['user_info']:
+        pass
+except: 
+    st.session_state={"connected":"False","user_info":{"email":"","name":""}}
 st.session_state['connected'] = True
 st.session_state['user_info']['email'] = st.text_input("Your email")
 n = Logout if st.session_state['connected'] else Login
