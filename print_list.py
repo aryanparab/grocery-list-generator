@@ -1,8 +1,6 @@
 import streamlit as st
 
 
-def toggle_item(key_value):
-    st.session_state.grocery_status[key_value] = not st.session_state.grocery_status[key_value]
 
 def print_list(val,is_see_list):
     _,shopping_dict , tim,_ = val
@@ -11,8 +9,6 @@ def print_list(val,is_see_list):
     target_list = []
     ralph_list =[]
     tj_list = []
-    if 'grocery_status' not in st.session_state:
-        st.session_state.grocery_status = {}
     
     st.caption(tim)
     for value in weeks:
