@@ -41,7 +41,8 @@ if st.session_state['connected']:
         I have {already_have} in my pantry. 
         I prefer the following cusines: {cuisine_statement}.
         {comments}
-        Provide a grocery list in the budget of ${budget}
+        Provide a grocery list in the budget of ${budget}.
+        Ensure all the budget is used for the ingredients. It is okay to okay over budget by $15
         Adjust the ingredient quantities based on my preferences and should last for the provided duration.
         I want a balanced meal plan and donot mind some leftovers.
         """
