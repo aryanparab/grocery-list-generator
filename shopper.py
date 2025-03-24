@@ -122,7 +122,7 @@ def getter(prompt):
         # prompt = response.content + " Use the following list to estimate the cost of items from provided stores"
         # response = cost_estimator.run(prompt,stream=False)
         st.write("Creating List")
-        prompt = response.content + " Create a to-do list for the list of grocery items to buy."
+        prompt = response.content + " Create a to-do list for the list of grocery items to buy. Ensure all budget is used. "
         response2 = to_creator.run(prompt,stream=False)
         status.update(
         label="List Generation complete!", state="complete", expanded=False
