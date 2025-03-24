@@ -14,7 +14,7 @@ authenticator = Authenticate(
     secret_credentials_path='google_secret.json',
     cookie_name='my_cookie_name',
     cookie_key='378228839291001039191030201',
-    redirect_uri=["https://aryanparab-grocery-list-generator-streamlit-app-dxclse.streamlit.app/oauth2callback","http://localhost:8501","http://localhost:8501/oauth2callback","https://aryanparab-grocery-list-generator-streamlit-app-dxclse.streamlit.app"],
+    redirect_uri=["https://aryanparab-grocery-list-generator-streamlit-app-dxclse.streamlit.app/oauth2callback","http://localhost:8501/oauth2callback"],
 )
 
 
